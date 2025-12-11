@@ -1,0 +1,2704 @@
+name,id,year,yeardem,dem,yearrev,region
+Angola,AGO,1960.0,,,,AFR
+Angola,AGO,1961.0,,,,AFR
+Angola,AGO,1962.0,,,,AFR
+Angola,AGO,1963.0,,,,AFR
+Angola,AGO,1964.0,,,,AFR
+Angola,AGO,1965.0,,,,AFR
+Angola,AGO,1966.0,,,,AFR
+Angola,AGO,1967.0,,,,AFR
+Angola,AGO,1968.0,,,,AFR
+Angola,AGO,1969.0,,,,AFR
+Angola,AGO,1970.0,,,,AFR
+Angola,AGO,1971.0,,,,AFR
+Angola,AGO,1972.0,,,,AFR
+Angola,AGO,1973.0,,,,AFR
+Angola,AGO,1974.0,,,,AFR
+Angola,AGO,1975.0,0.0,0.0,0.0,AFR
+Angola,AGO,1976.0,0.0,0.0,0.0,AFR
+Angola,AGO,1977.0,0.0,0.0,0.0,AFR
+Angola,AGO,1978.0,0.0,0.0,0.0,AFR
+Angola,AGO,1979.0,0.0,0.0,0.0,AFR
+Angola,AGO,1980.0,0.0,0.0,0.0,AFR
+Angola,AGO,1981.0,0.0,0.0,0.0,AFR
+Angola,AGO,1982.0,0.0,0.0,0.0,AFR
+Angola,AGO,1983.0,0.0,0.0,0.0,AFR
+Angola,AGO,1984.0,0.0,0.0,0.0,AFR
+Angola,AGO,1985.0,0.0,0.0,0.0,AFR
+Angola,AGO,1986.0,0.0,0.0,0.0,AFR
+Angola,AGO,1987.0,0.0,0.0,0.0,AFR
+Angola,AGO,1988.0,0.0,0.0,0.0,AFR
+Angola,AGO,1989.0,0.0,0.0,0.0,AFR
+Angola,AGO,1990.0,0.0,0.0,0.0,AFR
+Angola,AGO,1991.0,0.0,0.0,0.0,AFR
+Angola,AGO,1992.0,0.0,0.0,0.0,AFR
+Angola,AGO,1993.0,0.0,0.0,0.0,AFR
+Angola,AGO,1994.0,0.0,0.0,0.0,AFR
+Angola,AGO,1995.0,0.0,0.0,0.0,AFR
+Angola,AGO,1996.0,0.0,0.0,0.0,AFR
+Angola,AGO,1997.0,0.0,0.0,0.0,AFR
+Angola,AGO,1998.0,0.0,0.0,0.0,AFR
+Angola,AGO,1999.0,0.0,0.0,0.0,AFR
+Angola,AGO,2000.0,0.0,0.0,0.0,AFR
+Angola,AGO,2001.0,0.0,0.0,0.0,AFR
+Angola,AGO,2002.0,0.0,0.0,0.0,AFR
+Angola,AGO,2003.0,0.0,0.0,0.0,AFR
+Angola,AGO,2004.0,0.0,0.0,0.0,AFR
+Angola,AGO,2005.0,0.0,0.0,0.0,AFR
+Angola,AGO,2006.0,0.0,0.0,0.0,AFR
+Angola,AGO,2007.0,0.0,0.0,0.0,AFR
+Angola,AGO,2008.0,0.0,0.0,0.0,AFR
+Angola,AGO,2009.0,0.0,0.0,0.0,AFR
+Angola,AGO,2010.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1960.0,,,,AFR
+Burundi,BDI,1961.0,,,,AFR
+Burundi,BDI,1962.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1963.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1964.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1965.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1966.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1967.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1968.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1969.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1970.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1971.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1972.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1973.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1974.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1975.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1976.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1977.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1978.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1979.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1980.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1981.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1982.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1983.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1984.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1985.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1986.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1987.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1988.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1989.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1990.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1991.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1992.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1993.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1994.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1995.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1996.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1997.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1998.0,0.0,0.0,0.0,AFR
+Burundi,BDI,1999.0,0.0,0.0,0.0,AFR
+Burundi,BDI,2000.0,0.0,0.0,0.0,AFR
+Burundi,BDI,2001.0,0.0,0.0,0.0,AFR
+Burundi,BDI,2002.0,0.0,0.0,0.0,AFR
+Burundi,BDI,2003.0,1.0,1.0,0.0,AFR
+Burundi,BDI,2004.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2005.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2006.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2007.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2008.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2009.0,0.0,1.0,0.0,AFR
+Burundi,BDI,2010.0,0.0,1.0,0.0,AFR
+Benin,BEN,1960.0,0.0,0.0,0.0,AFR
+Benin,BEN,1961.0,0.0,0.0,0.0,AFR
+Benin,BEN,1962.0,0.0,0.0,0.0,AFR
+Benin,BEN,1963.0,0.0,0.0,0.0,AFR
+Benin,BEN,1964.0,0.0,0.0,0.0,AFR
+Benin,BEN,1965.0,0.0,0.0,0.0,AFR
+Benin,BEN,1966.0,0.0,0.0,0.0,AFR
+Benin,BEN,1967.0,0.0,0.0,0.0,AFR
+Benin,BEN,1968.0,0.0,0.0,0.0,AFR
+Benin,BEN,1969.0,0.0,0.0,0.0,AFR
+Benin,BEN,1970.0,0.0,0.0,0.0,AFR
+Benin,BEN,1971.0,0.0,0.0,0.0,AFR
+Benin,BEN,1972.0,0.0,0.0,0.0,AFR
+Benin,BEN,1973.0,0.0,0.0,0.0,AFR
+Benin,BEN,1974.0,0.0,0.0,0.0,AFR
+Benin,BEN,1975.0,0.0,0.0,0.0,AFR
+Benin,BEN,1976.0,0.0,0.0,0.0,AFR
+Benin,BEN,1977.0,0.0,0.0,0.0,AFR
+Benin,BEN,1978.0,0.0,0.0,0.0,AFR
+Benin,BEN,1979.0,0.0,0.0,0.0,AFR
+Benin,BEN,1980.0,0.0,0.0,0.0,AFR
+Benin,BEN,1981.0,0.0,0.0,0.0,AFR
+Benin,BEN,1982.0,0.0,0.0,0.0,AFR
+Benin,BEN,1983.0,0.0,0.0,0.0,AFR
+Benin,BEN,1984.0,0.0,0.0,0.0,AFR
+Benin,BEN,1985.0,0.0,0.0,0.0,AFR
+Benin,BEN,1986.0,0.0,0.0,0.0,AFR
+Benin,BEN,1987.0,0.0,0.0,0.0,AFR
+Benin,BEN,1988.0,0.0,0.0,0.0,AFR
+Benin,BEN,1989.0,0.0,0.0,0.0,AFR
+Benin,BEN,1990.0,0.0,0.0,0.0,AFR
+Benin,BEN,1991.0,1.0,1.0,0.0,AFR
+Benin,BEN,1992.0,0.0,1.0,0.0,AFR
+Benin,BEN,1993.0,0.0,1.0,0.0,AFR
+Benin,BEN,1994.0,0.0,1.0,0.0,AFR
+Benin,BEN,1995.0,0.0,1.0,0.0,AFR
+Benin,BEN,1996.0,0.0,1.0,0.0,AFR
+Benin,BEN,1997.0,0.0,1.0,0.0,AFR
+Benin,BEN,1998.0,0.0,1.0,0.0,AFR
+Benin,BEN,1999.0,0.0,1.0,0.0,AFR
+Benin,BEN,2000.0,0.0,1.0,0.0,AFR
+Benin,BEN,2001.0,0.0,1.0,0.0,AFR
+Benin,BEN,2002.0,0.0,1.0,0.0,AFR
+Benin,BEN,2003.0,0.0,1.0,0.0,AFR
+Benin,BEN,2004.0,0.0,1.0,0.0,AFR
+Benin,BEN,2005.0,0.0,1.0,0.0,AFR
+Benin,BEN,2006.0,0.0,1.0,0.0,AFR
+Benin,BEN,2007.0,0.0,1.0,0.0,AFR
+Benin,BEN,2008.0,0.0,1.0,0.0,AFR
+Benin,BEN,2009.0,0.0,1.0,0.0,AFR
+Benin,BEN,2010.0,0.0,1.0,0.0,AFR
+Burkina Faso,BFA,1960.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1961.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1962.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1963.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1964.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1965.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1966.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1967.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1968.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1969.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1970.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1971.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1972.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1973.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1974.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1975.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1976.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1977.0,1.0,1.0,0.0,AFR
+Burkina Faso,BFA,1978.0,0.0,1.0,0.0,AFR
+Burkina Faso,BFA,1979.0,0.0,1.0,0.0,AFR
+Burkina Faso,BFA,1980.0,0.0,0.0,1.0,AFR
+Burkina Faso,BFA,1981.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1982.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1983.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1984.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1985.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1986.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1987.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1988.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1989.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1990.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1991.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1992.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1993.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1994.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1995.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1996.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1997.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1998.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,1999.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2000.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2001.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2002.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2003.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2004.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2005.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2006.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2007.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2008.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2009.0,0.0,0.0,0.0,AFR
+Burkina Faso,BFA,2010.0,0.0,0.0,0.0,AFR
+Botswana,BWA,1960.0,,,,AFR
+Botswana,BWA,1961.0,,,,AFR
+Botswana,BWA,1962.0,,,,AFR
+Botswana,BWA,1963.0,,,,AFR
+Botswana,BWA,1964.0,,,,AFR
+Botswana,BWA,1965.0,,,,AFR
+Botswana,BWA,1966.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1967.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1968.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1969.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1970.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1971.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1972.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1973.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1974.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1975.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1976.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1977.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1978.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1979.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1980.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1981.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1982.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1983.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1984.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1985.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1986.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1987.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1988.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1989.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1990.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1991.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1992.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1993.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1994.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1995.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1996.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1997.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1998.0,0.0,1.0,0.0,AFR
+Botswana,BWA,1999.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2000.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2001.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2002.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2003.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2004.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2005.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2006.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2007.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2008.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2009.0,0.0,1.0,0.0,AFR
+Botswana,BWA,2010.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1960.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1961.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1962.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1963.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1964.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1965.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1966.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1967.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1968.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1969.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1970.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1971.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1972.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1973.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1974.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1975.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1976.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1977.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1978.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1979.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1980.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1981.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1982.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1983.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1984.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1985.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1986.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1987.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1988.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1989.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1990.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1991.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1992.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,1993.0,1.0,1.0,0.0,AFR
+Central African Rep.,CAF,1994.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1995.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1996.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1997.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1998.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,1999.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,2000.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,2001.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,2002.0,0.0,1.0,0.0,AFR
+Central African Rep.,CAF,2003.0,0.0,0.0,1.0,AFR
+Central African Rep.,CAF,2004.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2005.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2006.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2007.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2008.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2009.0,0.0,0.0,0.0,AFR
+Central African Rep.,CAF,2010.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1960.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1961.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1962.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1963.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1964.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1965.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1966.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1967.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1968.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1969.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1970.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1971.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1972.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1973.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1974.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1975.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1976.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1977.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1978.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1979.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1980.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1981.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1982.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1983.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1984.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1985.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1986.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1987.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1988.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1989.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1990.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1991.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1992.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1993.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1994.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1995.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1996.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1997.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1998.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,1999.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2000.0,1.0,1.0,0.0,AFR
+Côte d'Ivoire,CIV,2001.0,0.0,1.0,0.0,AFR
+Côte d'Ivoire,CIV,2002.0,0.0,0.0,1.0,AFR
+Côte d'Ivoire,CIV,2003.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2004.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2005.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2006.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2007.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2008.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2009.0,0.0,0.0,0.0,AFR
+Côte d'Ivoire,CIV,2010.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1960.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1961.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1962.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1963.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1964.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1965.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1966.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1967.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1968.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1969.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1970.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1971.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1972.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1973.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1974.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1975.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1976.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1977.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1978.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1979.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1980.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1981.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1982.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1983.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1984.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1985.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1986.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1987.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1988.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1989.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1990.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1991.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1992.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1993.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1994.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1995.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1996.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1997.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1998.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,1999.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2000.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2001.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2002.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2003.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2004.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2005.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2006.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2007.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2008.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2009.0,0.0,0.0,0.0,AFR
+Cameroon,CMR,2010.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1960.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1961.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1962.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1963.0,0.0,0.0,1.0,AFR
+"Congo, Republic of",COG,1964.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1965.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1966.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1967.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1968.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1969.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1970.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1971.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1972.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1973.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1974.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1975.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1976.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1977.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1978.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1979.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1980.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1981.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1982.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1983.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1984.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1985.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1986.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1987.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1988.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1989.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1990.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1991.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1992.0,1.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1993.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1994.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1995.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1996.0,0.0,1.0,0.0,AFR
+"Congo, Republic of",COG,1997.0,0.0,0.0,1.0,AFR
+"Congo, Republic of",COG,1998.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,1999.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2000.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2001.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2002.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2003.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2004.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2005.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2006.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2007.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2008.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2009.0,0.0,0.0,0.0,AFR
+"Congo, Republic of",COG,2010.0,0.0,0.0,0.0,AFR
+Comoros,COM,1960.0,,,,AFR
+Comoros,COM,1961.0,,,,AFR
+Comoros,COM,1962.0,,,,AFR
+Comoros,COM,1963.0,,,,AFR
+Comoros,COM,1964.0,,,,AFR
+Comoros,COM,1965.0,,,,AFR
+Comoros,COM,1966.0,,,,AFR
+Comoros,COM,1967.0,,,,AFR
+Comoros,COM,1968.0,,,,AFR
+Comoros,COM,1969.0,,,,AFR
+Comoros,COM,1970.0,,,,AFR
+Comoros,COM,1971.0,,,,AFR
+Comoros,COM,1972.0,,,,AFR
+Comoros,COM,1973.0,,,,AFR
+Comoros,COM,1974.0,,,,AFR
+Comoros,COM,1975.0,0.0,1.0,0.0,AFR
+Comoros,COM,1976.0,0.0,0.0,1.0,AFR
+Comoros,COM,1977.0,0.0,0.0,0.0,AFR
+Comoros,COM,1978.0,0.0,0.0,0.0,AFR
+Comoros,COM,1979.0,0.0,0.0,0.0,AFR
+Comoros,COM,1980.0,0.0,0.0,0.0,AFR
+Comoros,COM,1981.0,0.0,0.0,0.0,AFR
+Comoros,COM,1982.0,0.0,0.0,0.0,AFR
+Comoros,COM,1983.0,0.0,0.0,0.0,AFR
+Comoros,COM,1984.0,0.0,0.0,0.0,AFR
+Comoros,COM,1985.0,0.0,0.0,0.0,AFR
+Comoros,COM,1986.0,0.0,0.0,0.0,AFR
+Comoros,COM,1987.0,0.0,0.0,0.0,AFR
+Comoros,COM,1988.0,0.0,0.0,0.0,AFR
+Comoros,COM,1989.0,0.0,0.0,0.0,AFR
+Comoros,COM,1990.0,1.0,1.0,0.0,AFR
+Comoros,COM,1991.0,0.0,1.0,0.0,AFR
+Comoros,COM,1992.0,0.0,1.0,0.0,AFR
+Comoros,COM,1993.0,0.0,1.0,0.0,AFR
+Comoros,COM,1994.0,0.0,1.0,0.0,AFR
+Comoros,COM,1995.0,0.0,0.0,1.0,AFR
+Comoros,COM,1996.0,1.0,1.0,0.0,AFR
+Comoros,COM,1997.0,0.0,1.0,0.0,AFR
+Comoros,COM,1998.0,0.0,1.0,0.0,AFR
+Comoros,COM,1999.0,0.0,0.0,1.0,AFR
+Comoros,COM,2000.0,0.0,0.0,0.0,AFR
+Comoros,COM,2001.0,0.0,0.0,0.0,AFR
+Comoros,COM,2002.0,1.0,1.0,0.0,AFR
+Comoros,COM,2003.0,0.0,1.0,0.0,AFR
+Comoros,COM,2004.0,0.0,1.0,0.0,AFR
+Comoros,COM,2005.0,0.0,1.0,0.0,AFR
+Comoros,COM,2006.0,0.0,1.0,0.0,AFR
+Comoros,COM,2007.0,0.0,1.0,0.0,AFR
+Comoros,COM,2008.0,0.0,1.0,0.0,AFR
+Comoros,COM,2009.0,0.0,1.0,0.0,AFR
+Comoros,COM,2010.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1960.0,,,,AFR
+Cape Verde,CPV,1961.0,,,,AFR
+Cape Verde,CPV,1962.0,,,,AFR
+Cape Verde,CPV,1963.0,,,,AFR
+Cape Verde,CPV,1964.0,,,,AFR
+Cape Verde,CPV,1965.0,,,,AFR
+Cape Verde,CPV,1966.0,,,,AFR
+Cape Verde,CPV,1967.0,,,,AFR
+Cape Verde,CPV,1968.0,,,,AFR
+Cape Verde,CPV,1969.0,,,,AFR
+Cape Verde,CPV,1970.0,,,,AFR
+Cape Verde,CPV,1971.0,,,,AFR
+Cape Verde,CPV,1972.0,,,,AFR
+Cape Verde,CPV,1973.0,,,,AFR
+Cape Verde,CPV,1974.0,,,,AFR
+Cape Verde,CPV,1975.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1976.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1977.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1978.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1979.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1980.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1981.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1982.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1983.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1984.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1985.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1986.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1987.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1988.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1989.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1990.0,0.0,0.0,0.0,AFR
+Cape Verde,CPV,1991.0,1.0,1.0,0.0,AFR
+Cape Verde,CPV,1992.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1993.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1994.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1995.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1996.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1997.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1998.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,1999.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2000.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2001.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2002.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2003.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2004.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2005.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2006.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2007.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2008.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2009.0,0.0,1.0,0.0,AFR
+Cape Verde,CPV,2010.0,0.0,1.0,0.0,AFR
+Djibouti,DJI,1960.0,,,,MNA
+Djibouti,DJI,1961.0,,,,MNA
+Djibouti,DJI,1962.0,,,,MNA
+Djibouti,DJI,1963.0,,,,MNA
+Djibouti,DJI,1964.0,,,,MNA
+Djibouti,DJI,1965.0,,,,MNA
+Djibouti,DJI,1966.0,,,,MNA
+Djibouti,DJI,1967.0,,,,MNA
+Djibouti,DJI,1968.0,,,,MNA
+Djibouti,DJI,1969.0,,,,MNA
+Djibouti,DJI,1970.0,,,,MNA
+Djibouti,DJI,1971.0,,,,MNA
+Djibouti,DJI,1972.0,,,,MNA
+Djibouti,DJI,1973.0,,,,MNA
+Djibouti,DJI,1974.0,,,,MNA
+Djibouti,DJI,1975.0,,,,MNA
+Djibouti,DJI,1976.0,,,,MNA
+Djibouti,DJI,1977.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1978.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1979.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1980.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1981.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1982.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1983.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1984.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1985.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1986.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1987.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1988.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1989.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1990.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1991.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1992.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1993.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1994.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1995.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1996.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1997.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1998.0,0.0,0.0,0.0,MNA
+Djibouti,DJI,1999.0,1.0,1.0,0.0,MNA
+Djibouti,DJI,2000.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2001.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2002.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2003.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2004.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2005.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2006.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2007.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2008.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2009.0,0.0,1.0,0.0,MNA
+Djibouti,DJI,2010.0,0.0,0.0,1.0,MNA
+Algeria,DZA,1960.0,,,,MNA
+Algeria,DZA,1961.0,,,,MNA
+Algeria,DZA,1962.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1963.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1964.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1965.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1966.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1967.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1968.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1969.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1970.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1971.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1972.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1973.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1974.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1975.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1976.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1977.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1978.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1979.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1980.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1981.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1982.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1983.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1984.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1985.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1986.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1987.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1988.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1989.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1990.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1991.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1992.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1993.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1994.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1995.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1996.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1997.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1998.0,0.0,0.0,0.0,MNA
+Algeria,DZA,1999.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2000.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2001.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2002.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2003.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2004.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2005.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2006.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2007.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2008.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2009.0,0.0,0.0,0.0,MNA
+Algeria,DZA,2010.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1960.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1961.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1962.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1963.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1964.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1965.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1966.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1967.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1968.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1969.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1970.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1971.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1972.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1973.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1974.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1975.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1976.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1977.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1978.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1979.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1980.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1981.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1982.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1983.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1984.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1985.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1986.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1987.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1988.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1989.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1990.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1991.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1992.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1993.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1994.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1995.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1996.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1997.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1998.0,0.0,0.0,0.0,MNA
+Egypt,EGY,1999.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2000.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2001.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2002.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2003.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2004.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2005.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2006.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2007.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2008.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2009.0,0.0,0.0,0.0,MNA
+Egypt,EGY,2010.0,0.0,0.0,0.0,MNA
+Eritrea,ERI,1960.0,,,,AFR
+Eritrea,ERI,1961.0,,,,AFR
+Eritrea,ERI,1962.0,,,,AFR
+Eritrea,ERI,1963.0,,,,AFR
+Eritrea,ERI,1964.0,,,,AFR
+Eritrea,ERI,1965.0,,,,AFR
+Eritrea,ERI,1966.0,,,,AFR
+Eritrea,ERI,1967.0,,,,AFR
+Eritrea,ERI,1968.0,,,,AFR
+Eritrea,ERI,1969.0,,,,AFR
+Eritrea,ERI,1970.0,,,,AFR
+Eritrea,ERI,1971.0,,,,AFR
+Eritrea,ERI,1972.0,,,,AFR
+Eritrea,ERI,1973.0,,,,AFR
+Eritrea,ERI,1974.0,,,,AFR
+Eritrea,ERI,1975.0,,,,AFR
+Eritrea,ERI,1976.0,,,,AFR
+Eritrea,ERI,1977.0,,,,AFR
+Eritrea,ERI,1978.0,,,,AFR
+Eritrea,ERI,1979.0,,,,AFR
+Eritrea,ERI,1980.0,,,,AFR
+Eritrea,ERI,1981.0,,,,AFR
+Eritrea,ERI,1982.0,,,,AFR
+Eritrea,ERI,1983.0,,,,AFR
+Eritrea,ERI,1984.0,,,,AFR
+Eritrea,ERI,1985.0,,,,AFR
+Eritrea,ERI,1986.0,,,,AFR
+Eritrea,ERI,1987.0,,,,AFR
+Eritrea,ERI,1988.0,,,,AFR
+Eritrea,ERI,1989.0,,,,AFR
+Eritrea,ERI,1990.0,,,,AFR
+Eritrea,ERI,1991.0,,,,AFR
+Eritrea,ERI,1992.0,,,,AFR
+Eritrea,ERI,1993.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1994.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1995.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1996.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1997.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1998.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,1999.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2000.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2001.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2002.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2003.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2004.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2005.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2006.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2007.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2008.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2009.0,0.0,0.0,0.0,AFR
+Eritrea,ERI,2010.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1960.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1961.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1962.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1963.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1964.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1965.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1966.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1967.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1968.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1969.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1970.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1971.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1972.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1973.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1974.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1975.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1976.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1977.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1978.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1979.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1980.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1981.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1982.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1983.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1984.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1985.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1986.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1987.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1988.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1989.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1990.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1991.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1992.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1993.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1994.0,0.0,0.0,0.0,AFR
+Ethiopia,ETH,1995.0,1.0,1.0,0.0,AFR
+Ethiopia,ETH,1996.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,1997.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,1998.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,1999.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2000.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2001.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2002.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2003.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2004.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2005.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2006.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2007.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2008.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2009.0,0.0,1.0,0.0,AFR
+Ethiopia,ETH,2010.0,0.0,0.0,1.0,AFR
+Gabon,GAB,1960.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1961.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1962.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1963.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1964.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1965.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1966.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1967.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1968.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1969.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1970.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1971.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1972.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1973.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1974.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1975.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1976.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1977.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1978.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1979.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1980.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1981.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1982.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1983.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1984.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1985.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1986.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1987.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1988.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1989.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1990.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1991.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1992.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1993.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1994.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1995.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1996.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1997.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1998.0,0.0,0.0,0.0,AFR
+Gabon,GAB,1999.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2000.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2001.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2002.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2003.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2004.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2005.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2006.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2007.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2008.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2009.0,0.0,0.0,0.0,AFR
+Gabon,GAB,2010.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1960.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1961.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1962.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1963.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1964.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1965.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1966.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1967.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1968.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1969.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1970.0,1.0,1.0,0.0,AFR
+Ghana,GHA,1971.0,0.0,1.0,0.0,AFR
+Ghana,GHA,1972.0,0.0,0.0,1.0,AFR
+Ghana,GHA,1973.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1974.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1975.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1976.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1977.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1978.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1979.0,1.0,1.0,0.0,AFR
+Ghana,GHA,1980.0,0.0,1.0,0.0,AFR
+Ghana,GHA,1981.0,0.0,0.0,1.0,AFR
+Ghana,GHA,1982.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1983.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1984.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1985.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1986.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1987.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1988.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1989.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1990.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1991.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1992.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1993.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1994.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1995.0,0.0,0.0,0.0,AFR
+Ghana,GHA,1996.0,1.0,1.0,0.0,AFR
+Ghana,GHA,1997.0,0.0,1.0,0.0,AFR
+Ghana,GHA,1998.0,0.0,1.0,0.0,AFR
+Ghana,GHA,1999.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2000.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2001.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2002.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2003.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2004.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2005.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2006.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2007.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2008.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2009.0,0.0,1.0,0.0,AFR
+Ghana,GHA,2010.0,0.0,1.0,0.0,AFR
+Guinea,GIN,1960.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1961.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1962.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1963.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1964.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1965.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1966.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1967.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1968.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1969.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1970.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1971.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1972.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1973.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1974.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1975.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1976.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1977.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1978.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1979.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1980.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1981.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1982.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1983.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1984.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1985.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1986.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1987.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1988.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1989.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1990.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1991.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1992.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1993.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1994.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1995.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1996.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1997.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1998.0,0.0,0.0,0.0,AFR
+Guinea,GIN,1999.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2000.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2001.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2002.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2003.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2004.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2005.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2006.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2007.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2008.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2009.0,0.0,0.0,0.0,AFR
+Guinea,GIN,2010.0,1.0,1.0,0.0,AFR
+"Gambia, The",GMB,1960.0,,,,AFR
+"Gambia, The",GMB,1961.0,,,,AFR
+"Gambia, The",GMB,1962.0,,,,AFR
+"Gambia, The",GMB,1963.0,,,,AFR
+"Gambia, The",GMB,1964.0,,,,AFR
+"Gambia, The",GMB,1965.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1966.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1967.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1968.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1969.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1970.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1971.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1972.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1973.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1974.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1975.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1976.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1977.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1978.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1979.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1980.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1981.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1982.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1983.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1984.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1985.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1986.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1987.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1988.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1989.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1990.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1991.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1992.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1993.0,0.0,1.0,0.0,AFR
+"Gambia, The",GMB,1994.0,0.0,0.0,1.0,AFR
+"Gambia, The",GMB,1995.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,1996.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,1997.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,1998.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,1999.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2000.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2001.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2002.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2003.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2004.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2005.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2006.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2007.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2008.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2009.0,0.0,0.0,0.0,AFR
+"Gambia, The",GMB,2010.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1960.0,,,,AFR
+Guinea-Bissau,GNB,1961.0,,,,AFR
+Guinea-Bissau,GNB,1962.0,,,,AFR
+Guinea-Bissau,GNB,1963.0,,,,AFR
+Guinea-Bissau,GNB,1964.0,,,,AFR
+Guinea-Bissau,GNB,1965.0,,,,AFR
+Guinea-Bissau,GNB,1966.0,,,,AFR
+Guinea-Bissau,GNB,1967.0,,,,AFR
+Guinea-Bissau,GNB,1968.0,,,,AFR
+Guinea-Bissau,GNB,1969.0,,,,AFR
+Guinea-Bissau,GNB,1970.0,,,,AFR
+Guinea-Bissau,GNB,1971.0,,,,AFR
+Guinea-Bissau,GNB,1972.0,,,,AFR
+Guinea-Bissau,GNB,1973.0,,,,AFR
+Guinea-Bissau,GNB,1974.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1975.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1976.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1977.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1978.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1979.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1980.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1981.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1982.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1983.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1984.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1985.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1986.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1987.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1988.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1989.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1990.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1991.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1992.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1993.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,1994.0,1.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,1995.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,1996.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,1997.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,1998.0,0.0,0.0,1.0,AFR
+Guinea-Bissau,GNB,1999.0,1.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2000.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2001.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2002.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2003.0,0.0,0.0,1.0,AFR
+Guinea-Bissau,GNB,2004.0,0.0,0.0,0.0,AFR
+Guinea-Bissau,GNB,2005.0,1.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2006.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2007.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2008.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2009.0,0.0,1.0,0.0,AFR
+Guinea-Bissau,GNB,2010.0,0.0,1.0,0.0,AFR
+Equatorial Guinea,GNQ,1960.0,,,,AFR
+Equatorial Guinea,GNQ,1961.0,,,,AFR
+Equatorial Guinea,GNQ,1962.0,,,,AFR
+Equatorial Guinea,GNQ,1963.0,,,,AFR
+Equatorial Guinea,GNQ,1964.0,,,,AFR
+Equatorial Guinea,GNQ,1965.0,,,,AFR
+Equatorial Guinea,GNQ,1966.0,,,,AFR
+Equatorial Guinea,GNQ,1967.0,,,,AFR
+Equatorial Guinea,GNQ,1968.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1969.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1970.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1971.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1972.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1973.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1974.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1975.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1976.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1977.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1978.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1979.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1980.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1981.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1982.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1983.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1984.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1985.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1986.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1987.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1988.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1989.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1990.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1991.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1992.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1993.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1994.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1995.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1996.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1997.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1998.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,1999.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2000.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2001.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2002.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2003.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2004.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2005.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2006.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2007.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2008.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2009.0,0.0,0.0,0.0,AFR
+Equatorial Guinea,GNQ,2010.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1960.0,,,,AFR
+Kenya,KEN,1961.0,,,,AFR
+Kenya,KEN,1962.0,,,,AFR
+Kenya,KEN,1963.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1964.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1965.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1966.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1967.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1968.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1969.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1970.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1971.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1972.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1973.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1974.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1975.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1976.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1977.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1978.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1979.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1980.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1981.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1982.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1983.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1984.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1985.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1986.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1987.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1988.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1989.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1990.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1991.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1992.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1993.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1994.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1995.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1996.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1997.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1998.0,0.0,0.0,0.0,AFR
+Kenya,KEN,1999.0,0.0,0.0,0.0,AFR
+Kenya,KEN,2000.0,0.0,0.0,0.0,AFR
+Kenya,KEN,2001.0,0.0,0.0,0.0,AFR
+Kenya,KEN,2002.0,1.0,1.0,0.0,AFR
+Kenya,KEN,2003.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2004.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2005.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2006.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2007.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2008.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2009.0,0.0,1.0,0.0,AFR
+Kenya,KEN,2010.0,0.0,1.0,0.0,AFR
+Liberia,LBR,1960.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1961.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1962.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1963.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1964.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1965.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1966.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1967.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1968.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1969.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1970.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1971.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1972.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1973.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1974.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1975.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1976.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1977.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1978.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1979.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1980.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1981.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1982.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1983.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1984.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1985.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1986.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1987.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1988.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1989.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1990.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1991.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1992.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1993.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1994.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1995.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1996.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1997.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1998.0,0.0,0.0,0.0,AFR
+Liberia,LBR,1999.0,0.0,0.0,0.0,AFR
+Liberia,LBR,2000.0,0.0,0.0,0.0,AFR
+Liberia,LBR,2001.0,0.0,0.0,0.0,AFR
+Liberia,LBR,2002.0,0.0,0.0,0.0,AFR
+Liberia,LBR,2003.0,0.0,0.0,0.0,AFR
+Liberia,LBR,2004.0,1.0,1.0,0.0,AFR
+Liberia,LBR,2005.0,0.0,1.0,0.0,AFR
+Liberia,LBR,2006.0,0.0,1.0,0.0,AFR
+Liberia,LBR,2007.0,0.0,1.0,0.0,AFR
+Liberia,LBR,2008.0,0.0,1.0,0.0,AFR
+Liberia,LBR,2009.0,0.0,1.0,0.0,AFR
+Liberia,LBR,2010.0,0.0,1.0,0.0,AFR
+Libya,LBY,1960.0,0.0,0.0,0.0,MNA
+Libya,LBY,1961.0,0.0,0.0,0.0,MNA
+Libya,LBY,1962.0,0.0,0.0,0.0,MNA
+Libya,LBY,1963.0,0.0,0.0,0.0,MNA
+Libya,LBY,1964.0,0.0,0.0,0.0,MNA
+Libya,LBY,1965.0,0.0,0.0,0.0,MNA
+Libya,LBY,1966.0,0.0,0.0,0.0,MNA
+Libya,LBY,1967.0,0.0,0.0,0.0,MNA
+Libya,LBY,1968.0,0.0,0.0,0.0,MNA
+Libya,LBY,1969.0,0.0,0.0,0.0,MNA
+Libya,LBY,1970.0,0.0,0.0,0.0,MNA
+Libya,LBY,1971.0,0.0,0.0,0.0,MNA
+Libya,LBY,1972.0,0.0,0.0,0.0,MNA
+Libya,LBY,1973.0,0.0,0.0,0.0,MNA
+Libya,LBY,1974.0,0.0,0.0,0.0,MNA
+Libya,LBY,1975.0,0.0,0.0,0.0,MNA
+Libya,LBY,1976.0,0.0,0.0,0.0,MNA
+Libya,LBY,1977.0,0.0,0.0,0.0,MNA
+Libya,LBY,1978.0,0.0,0.0,0.0,MNA
+Libya,LBY,1979.0,0.0,0.0,0.0,MNA
+Libya,LBY,1980.0,0.0,0.0,0.0,MNA
+Libya,LBY,1981.0,0.0,0.0,0.0,MNA
+Libya,LBY,1982.0,0.0,0.0,0.0,MNA
+Libya,LBY,1983.0,0.0,0.0,0.0,MNA
+Libya,LBY,1984.0,0.0,0.0,0.0,MNA
+Libya,LBY,1985.0,0.0,0.0,0.0,MNA
+Libya,LBY,1986.0,0.0,0.0,0.0,MNA
+Libya,LBY,1987.0,0.0,0.0,0.0,MNA
+Libya,LBY,1988.0,0.0,0.0,0.0,MNA
+Libya,LBY,1989.0,0.0,0.0,0.0,MNA
+Libya,LBY,1990.0,0.0,0.0,0.0,MNA
+Libya,LBY,1991.0,0.0,0.0,0.0,MNA
+Libya,LBY,1992.0,0.0,0.0,0.0,MNA
+Libya,LBY,1993.0,0.0,0.0,0.0,MNA
+Libya,LBY,1994.0,0.0,0.0,0.0,MNA
+Libya,LBY,1995.0,0.0,0.0,0.0,MNA
+Libya,LBY,1996.0,0.0,0.0,0.0,MNA
+Libya,LBY,1997.0,0.0,0.0,0.0,MNA
+Libya,LBY,1998.0,0.0,0.0,0.0,MNA
+Libya,LBY,1999.0,0.0,0.0,0.0,MNA
+Libya,LBY,2000.0,0.0,0.0,0.0,MNA
+Libya,LBY,2001.0,0.0,0.0,0.0,MNA
+Libya,LBY,2002.0,0.0,0.0,0.0,MNA
+Libya,LBY,2003.0,0.0,0.0,0.0,MNA
+Libya,LBY,2004.0,0.0,0.0,0.0,MNA
+Libya,LBY,2005.0,0.0,0.0,0.0,MNA
+Libya,LBY,2006.0,0.0,0.0,0.0,MNA
+Libya,LBY,2007.0,0.0,0.0,0.0,MNA
+Libya,LBY,2008.0,0.0,0.0,0.0,MNA
+Libya,LBY,2009.0,0.0,0.0,0.0,MNA
+Libya,LBY,2010.0,0.0,0.0,0.0,MNA
+Lesotho,LSO,1960.0,,,,AFR
+Lesotho,LSO,1961.0,,,,AFR
+Lesotho,LSO,1962.0,,,,AFR
+Lesotho,LSO,1963.0,,,,AFR
+Lesotho,LSO,1964.0,,,,AFR
+Lesotho,LSO,1965.0,,,,AFR
+Lesotho,LSO,1966.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1967.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1968.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1969.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1970.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1971.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1972.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1973.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1974.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1975.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1976.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1977.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1978.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1979.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1980.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1981.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1982.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1983.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1984.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1985.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1986.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1987.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1988.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1989.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1990.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1991.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1992.0,0.0,0.0,0.0,AFR
+Lesotho,LSO,1993.0,1.0,1.0,0.0,AFR
+Lesotho,LSO,1994.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,1995.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,1996.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,1997.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,1998.0,0.0,0.0,1.0,AFR
+Lesotho,LSO,1999.0,1.0,1.0,0.0,AFR
+Lesotho,LSO,2000.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2001.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2002.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2003.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2004.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2005.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2006.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2007.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2008.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2009.0,0.0,1.0,0.0,AFR
+Lesotho,LSO,2010.0,0.0,1.0,0.0,AFR
+Morocco,MAR,1960.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1961.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1962.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1963.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1964.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1965.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1966.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1967.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1968.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1969.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1970.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1971.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1972.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1973.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1974.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1975.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1976.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1977.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1978.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1979.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1980.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1981.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1982.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1983.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1984.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1985.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1986.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1987.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1988.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1989.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1990.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1991.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1992.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1993.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1994.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1995.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1996.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1997.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1998.0,0.0,0.0,0.0,MNA
+Morocco,MAR,1999.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2000.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2001.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2002.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2003.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2004.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2005.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2006.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2007.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2008.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2009.0,0.0,0.0,0.0,MNA
+Morocco,MAR,2010.0,0.0,0.0,0.0,MNA
+Madagascar,MDG,1960.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1961.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1962.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1963.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1964.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1965.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1966.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1967.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1968.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1969.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1970.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1971.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1972.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1973.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1974.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1975.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1976.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1977.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1978.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1979.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1980.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1981.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1982.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1983.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1984.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1985.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1986.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1987.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1988.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1989.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1990.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1991.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1992.0,0.0,0.0,0.0,AFR
+Madagascar,MDG,1993.0,1.0,1.0,0.0,AFR
+Madagascar,MDG,1994.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,1995.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,1996.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,1997.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,1998.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,1999.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2000.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2001.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2002.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2003.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2004.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2005.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2006.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2007.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2008.0,0.0,1.0,0.0,AFR
+Madagascar,MDG,2009.0,0.0,0.0,1.0,AFR
+Madagascar,MDG,2010.0,0.0,0.0,0.0,AFR
+Mali,MLI,1960.0,0.0,0.0,0.0,AFR
+Mali,MLI,1961.0,0.0,0.0,0.0,AFR
+Mali,MLI,1962.0,0.0,0.0,0.0,AFR
+Mali,MLI,1963.0,0.0,0.0,0.0,AFR
+Mali,MLI,1964.0,0.0,0.0,0.0,AFR
+Mali,MLI,1965.0,0.0,0.0,0.0,AFR
+Mali,MLI,1966.0,0.0,0.0,0.0,AFR
+Mali,MLI,1967.0,0.0,0.0,0.0,AFR
+Mali,MLI,1968.0,0.0,0.0,0.0,AFR
+Mali,MLI,1969.0,0.0,0.0,0.0,AFR
+Mali,MLI,1970.0,0.0,0.0,0.0,AFR
+Mali,MLI,1971.0,0.0,0.0,0.0,AFR
+Mali,MLI,1972.0,0.0,0.0,0.0,AFR
+Mali,MLI,1973.0,0.0,0.0,0.0,AFR
+Mali,MLI,1974.0,0.0,0.0,0.0,AFR
+Mali,MLI,1975.0,0.0,0.0,0.0,AFR
+Mali,MLI,1976.0,0.0,0.0,0.0,AFR
+Mali,MLI,1977.0,0.0,0.0,0.0,AFR
+Mali,MLI,1978.0,0.0,0.0,0.0,AFR
+Mali,MLI,1979.0,0.0,0.0,0.0,AFR
+Mali,MLI,1980.0,0.0,0.0,0.0,AFR
+Mali,MLI,1981.0,0.0,0.0,0.0,AFR
+Mali,MLI,1982.0,0.0,0.0,0.0,AFR
+Mali,MLI,1983.0,0.0,0.0,0.0,AFR
+Mali,MLI,1984.0,0.0,0.0,0.0,AFR
+Mali,MLI,1985.0,0.0,0.0,0.0,AFR
+Mali,MLI,1986.0,0.0,0.0,0.0,AFR
+Mali,MLI,1987.0,0.0,0.0,0.0,AFR
+Mali,MLI,1988.0,0.0,0.0,0.0,AFR
+Mali,MLI,1989.0,0.0,0.0,0.0,AFR
+Mali,MLI,1990.0,0.0,0.0,0.0,AFR
+Mali,MLI,1991.0,0.0,0.0,0.0,AFR
+Mali,MLI,1992.0,1.0,1.0,0.0,AFR
+Mali,MLI,1993.0,0.0,1.0,0.0,AFR
+Mali,MLI,1994.0,0.0,1.0,0.0,AFR
+Mali,MLI,1995.0,0.0,1.0,0.0,AFR
+Mali,MLI,1996.0,0.0,1.0,0.0,AFR
+Mali,MLI,1997.0,0.0,1.0,0.0,AFR
+Mali,MLI,1998.0,0.0,1.0,0.0,AFR
+Mali,MLI,1999.0,0.0,1.0,0.0,AFR
+Mali,MLI,2000.0,0.0,1.0,0.0,AFR
+Mali,MLI,2001.0,0.0,1.0,0.0,AFR
+Mali,MLI,2002.0,0.0,1.0,0.0,AFR
+Mali,MLI,2003.0,0.0,1.0,0.0,AFR
+Mali,MLI,2004.0,0.0,1.0,0.0,AFR
+Mali,MLI,2005.0,0.0,1.0,0.0,AFR
+Mali,MLI,2006.0,0.0,1.0,0.0,AFR
+Mali,MLI,2007.0,0.0,1.0,0.0,AFR
+Mali,MLI,2008.0,0.0,1.0,0.0,AFR
+Mali,MLI,2009.0,0.0,1.0,0.0,AFR
+Mali,MLI,2010.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,1960.0,,,,AFR
+Mozambique,MOZ,1961.0,,,,AFR
+Mozambique,MOZ,1962.0,,,,AFR
+Mozambique,MOZ,1963.0,,,,AFR
+Mozambique,MOZ,1964.0,,,,AFR
+Mozambique,MOZ,1965.0,,,,AFR
+Mozambique,MOZ,1966.0,,,,AFR
+Mozambique,MOZ,1967.0,,,,AFR
+Mozambique,MOZ,1968.0,,,,AFR
+Mozambique,MOZ,1969.0,,,,AFR
+Mozambique,MOZ,1970.0,,,,AFR
+Mozambique,MOZ,1971.0,,,,AFR
+Mozambique,MOZ,1972.0,,,,AFR
+Mozambique,MOZ,1973.0,,,,AFR
+Mozambique,MOZ,1974.0,,,,AFR
+Mozambique,MOZ,1975.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1976.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1977.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1978.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1979.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1980.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1981.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1982.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1983.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1984.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1985.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1986.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1987.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1988.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1989.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1990.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1991.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1992.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1993.0,0.0,0.0,0.0,AFR
+Mozambique,MOZ,1994.0,1.0,1.0,0.0,AFR
+Mozambique,MOZ,1995.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,1996.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,1997.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,1998.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,1999.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2000.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2001.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2002.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2003.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2004.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2005.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2006.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2007.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2008.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2009.0,0.0,1.0,0.0,AFR
+Mozambique,MOZ,2010.0,0.0,1.0,0.0,AFR
+Mauritania,MRT,1960.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1961.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1962.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1963.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1964.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1965.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1966.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1967.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1968.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1969.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1970.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1971.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1972.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1973.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1974.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1975.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1976.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1977.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1978.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1979.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1980.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1981.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1982.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1983.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1984.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1985.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1986.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1987.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1988.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1989.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1990.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1991.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1992.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1993.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1994.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1995.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1996.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1997.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1998.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,1999.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2000.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2001.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2002.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2003.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2004.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2005.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2006.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2007.0,1.0,1.0,0.0,AFR
+Mauritania,MRT,2008.0,0.0,0.0,1.0,AFR
+Mauritania,MRT,2009.0,0.0,0.0,0.0,AFR
+Mauritania,MRT,2010.0,0.0,0.0,0.0,AFR
+Mauritius,MUS,1960.0,,,,AFR
+Mauritius,MUS,1961.0,,,,AFR
+Mauritius,MUS,1962.0,,,,AFR
+Mauritius,MUS,1963.0,,,,AFR
+Mauritius,MUS,1964.0,,,,AFR
+Mauritius,MUS,1965.0,,,,AFR
+Mauritius,MUS,1966.0,,,,AFR
+Mauritius,MUS,1967.0,,,,AFR
+Mauritius,MUS,1968.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1969.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1970.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1971.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1972.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1973.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1974.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1975.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1976.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1977.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1978.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1979.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1980.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1981.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1982.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1983.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1984.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1985.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1986.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1987.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1988.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1989.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1990.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1991.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1992.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1993.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1994.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1995.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1996.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1997.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1998.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,1999.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2000.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2001.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2002.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2003.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2004.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2005.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2006.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2007.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2008.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2009.0,0.0,1.0,0.0,AFR
+Mauritius,MUS,2010.0,0.0,1.0,0.0,AFR
+Malawi,MWI,1960.0,,,,AFR
+Malawi,MWI,1961.0,,,,AFR
+Malawi,MWI,1962.0,,,,AFR
+Malawi,MWI,1963.0,,,,AFR
+Malawi,MWI,1964.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1965.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1966.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1967.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1968.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1969.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1970.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1971.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1972.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1973.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1974.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1975.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1976.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1977.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1978.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1979.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1980.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1981.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1982.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1983.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1984.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1985.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1986.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1987.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1988.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1989.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1990.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1991.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1992.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1993.0,0.0,0.0,0.0,AFR
+Malawi,MWI,1994.0,1.0,1.0,0.0,AFR
+Malawi,MWI,1995.0,0.0,1.0,0.0,AFR
+Malawi,MWI,1996.0,0.0,1.0,0.0,AFR
+Malawi,MWI,1997.0,0.0,1.0,0.0,AFR
+Malawi,MWI,1998.0,0.0,1.0,0.0,AFR
+Malawi,MWI,1999.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2000.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2001.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2002.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2003.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2004.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2005.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2006.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2007.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2008.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2009.0,0.0,1.0,0.0,AFR
+Malawi,MWI,2010.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1960.0,,,,AFR
+Namibia,NAM,1961.0,,,,AFR
+Namibia,NAM,1962.0,,,,AFR
+Namibia,NAM,1963.0,,,,AFR
+Namibia,NAM,1964.0,,,,AFR
+Namibia,NAM,1965.0,,,,AFR
+Namibia,NAM,1966.0,,,,AFR
+Namibia,NAM,1967.0,,,,AFR
+Namibia,NAM,1968.0,,,,AFR
+Namibia,NAM,1969.0,,,,AFR
+Namibia,NAM,1970.0,,,,AFR
+Namibia,NAM,1971.0,,,,AFR
+Namibia,NAM,1972.0,,,,AFR
+Namibia,NAM,1973.0,,,,AFR
+Namibia,NAM,1974.0,,,,AFR
+Namibia,NAM,1975.0,,,,AFR
+Namibia,NAM,1976.0,,,,AFR
+Namibia,NAM,1977.0,,,,AFR
+Namibia,NAM,1978.0,,,,AFR
+Namibia,NAM,1979.0,,,,AFR
+Namibia,NAM,1980.0,,,,AFR
+Namibia,NAM,1981.0,,,,AFR
+Namibia,NAM,1982.0,,,,AFR
+Namibia,NAM,1983.0,,,,AFR
+Namibia,NAM,1984.0,,,,AFR
+Namibia,NAM,1985.0,,,,AFR
+Namibia,NAM,1986.0,,,,AFR
+Namibia,NAM,1987.0,,,,AFR
+Namibia,NAM,1988.0,,,,AFR
+Namibia,NAM,1989.0,,,,AFR
+Namibia,NAM,1990.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1991.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1992.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1993.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1994.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1995.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1996.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1997.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1998.0,0.0,1.0,0.0,AFR
+Namibia,NAM,1999.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2000.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2001.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2002.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2003.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2004.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2005.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2006.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2007.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2008.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2009.0,0.0,1.0,0.0,AFR
+Namibia,NAM,2010.0,0.0,1.0,0.0,AFR
+Niger,NER,1960.0,0.0,0.0,0.0,AFR
+Niger,NER,1961.0,0.0,0.0,0.0,AFR
+Niger,NER,1962.0,0.0,0.0,0.0,AFR
+Niger,NER,1963.0,0.0,0.0,0.0,AFR
+Niger,NER,1964.0,0.0,0.0,0.0,AFR
+Niger,NER,1965.0,0.0,0.0,0.0,AFR
+Niger,NER,1966.0,0.0,0.0,0.0,AFR
+Niger,NER,1967.0,0.0,0.0,0.0,AFR
+Niger,NER,1968.0,0.0,0.0,0.0,AFR
+Niger,NER,1969.0,0.0,0.0,0.0,AFR
+Niger,NER,1970.0,0.0,0.0,0.0,AFR
+Niger,NER,1971.0,0.0,0.0,0.0,AFR
+Niger,NER,1972.0,0.0,0.0,0.0,AFR
+Niger,NER,1973.0,0.0,0.0,0.0,AFR
+Niger,NER,1974.0,0.0,0.0,0.0,AFR
+Niger,NER,1975.0,0.0,0.0,0.0,AFR
+Niger,NER,1976.0,0.0,0.0,0.0,AFR
+Niger,NER,1977.0,0.0,0.0,0.0,AFR
+Niger,NER,1978.0,0.0,0.0,0.0,AFR
+Niger,NER,1979.0,0.0,0.0,0.0,AFR
+Niger,NER,1980.0,0.0,0.0,0.0,AFR
+Niger,NER,1981.0,0.0,0.0,0.0,AFR
+Niger,NER,1982.0,0.0,0.0,0.0,AFR
+Niger,NER,1983.0,0.0,0.0,0.0,AFR
+Niger,NER,1984.0,0.0,0.0,0.0,AFR
+Niger,NER,1985.0,0.0,0.0,0.0,AFR
+Niger,NER,1986.0,0.0,0.0,0.0,AFR
+Niger,NER,1987.0,0.0,0.0,0.0,AFR
+Niger,NER,1988.0,0.0,0.0,0.0,AFR
+Niger,NER,1989.0,0.0,0.0,0.0,AFR
+Niger,NER,1990.0,0.0,0.0,0.0,AFR
+Niger,NER,1991.0,1.0,1.0,0.0,AFR
+Niger,NER,1992.0,0.0,1.0,0.0,AFR
+Niger,NER,1993.0,0.0,1.0,0.0,AFR
+Niger,NER,1994.0,0.0,1.0,0.0,AFR
+Niger,NER,1995.0,0.0,1.0,0.0,AFR
+Niger,NER,1996.0,0.0,0.0,1.0,AFR
+Niger,NER,1997.0,0.0,0.0,0.0,AFR
+Niger,NER,1998.0,0.0,0.0,0.0,AFR
+Niger,NER,1999.0,1.0,1.0,0.0,AFR
+Niger,NER,2000.0,0.0,1.0,0.0,AFR
+Niger,NER,2001.0,0.0,1.0,0.0,AFR
+Niger,NER,2002.0,0.0,1.0,0.0,AFR
+Niger,NER,2003.0,0.0,1.0,0.0,AFR
+Niger,NER,2004.0,0.0,1.0,0.0,AFR
+Niger,NER,2005.0,0.0,1.0,0.0,AFR
+Niger,NER,2006.0,0.0,1.0,0.0,AFR
+Niger,NER,2007.0,0.0,1.0,0.0,AFR
+Niger,NER,2008.0,0.0,1.0,0.0,AFR
+Niger,NER,2009.0,0.0,0.0,1.0,AFR
+Niger,NER,2010.0,1.0,1.0,0.0,AFR
+Nigeria,NGA,1960.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1961.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1962.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1963.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1964.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1965.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1966.0,0.0,0.0,1.0,AFR
+Nigeria,NGA,1967.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1968.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1969.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1970.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1971.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1972.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1973.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1974.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1975.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1976.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1977.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1978.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1979.0,1.0,1.0,0.0,AFR
+Nigeria,NGA,1980.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1981.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1982.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1983.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,1984.0,0.0,0.0,1.0,AFR
+Nigeria,NGA,1985.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1986.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1987.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1988.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1989.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1990.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1991.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1992.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1993.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1994.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1995.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1996.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1997.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1998.0,0.0,0.0,0.0,AFR
+Nigeria,NGA,1999.0,1.0,1.0,0.0,AFR
+Nigeria,NGA,2000.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2001.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2002.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2003.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2004.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2005.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2006.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2007.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2008.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2009.0,0.0,1.0,0.0,AFR
+Nigeria,NGA,2010.0,0.0,1.0,0.0,AFR
+Rwanda,RWA,1960.0,,,,AFR
+Rwanda,RWA,1961.0,,,,AFR
+Rwanda,RWA,1962.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1963.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1964.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1965.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1966.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1967.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1968.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1969.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1970.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1971.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1972.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1973.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1974.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1975.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1976.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1977.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1978.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1979.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1980.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1981.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1982.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1983.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1984.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1985.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1986.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1987.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1988.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1989.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1990.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1991.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1992.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1993.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1994.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1995.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1996.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1997.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1998.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,1999.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2000.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2001.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2002.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2003.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2004.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2005.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2006.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2007.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2008.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2009.0,0.0,0.0,0.0,AFR
+Rwanda,RWA,2010.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1960.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1961.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1962.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1963.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1964.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1965.0,1.0,1.0,0.0,AFR
+Sudan,SDN,1966.0,0.0,1.0,0.0,AFR
+Sudan,SDN,1967.0,0.0,1.0,0.0,AFR
+Sudan,SDN,1968.0,0.0,1.0,0.0,AFR
+Sudan,SDN,1969.0,0.0,0.0,1.0,AFR
+Sudan,SDN,1970.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1971.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1972.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1973.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1974.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1975.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1976.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1977.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1978.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1979.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1980.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1981.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1982.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1983.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1984.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1985.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1986.0,1.0,1.0,0.0,AFR
+Sudan,SDN,1987.0,0.0,1.0,0.0,AFR
+Sudan,SDN,1988.0,0.0,1.0,0.0,AFR
+Sudan,SDN,1989.0,0.0,0.0,1.0,AFR
+Sudan,SDN,1990.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1991.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1992.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1993.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1994.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1995.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1996.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1997.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1998.0,0.0,0.0,0.0,AFR
+Sudan,SDN,1999.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2000.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2001.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2002.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2003.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2004.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2005.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2006.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2007.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2008.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2009.0,0.0,0.0,0.0,AFR
+Sudan,SDN,2010.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1960.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1961.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1962.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1963.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1964.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1965.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1966.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1967.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1968.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1969.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1970.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1971.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1972.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1973.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1974.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1975.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1976.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1977.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1978.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1979.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1980.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1981.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1982.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1983.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1984.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1985.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1986.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1987.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1988.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1989.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1990.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1991.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1992.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1993.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1994.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1995.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1996.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1997.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1998.0,0.0,0.0,0.0,AFR
+Senegal,SEN,1999.0,0.0,0.0,0.0,AFR
+Senegal,SEN,2000.0,1.0,1.0,0.0,AFR
+Senegal,SEN,2001.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2002.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2003.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2004.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2005.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2006.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2007.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2008.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2009.0,0.0,1.0,0.0,AFR
+Senegal,SEN,2010.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1960.0,,,,AFR
+Sierra Leone,SLE,1961.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1962.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1963.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1964.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1965.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1966.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,1967.0,0.0,0.0,1.0,AFR
+Sierra Leone,SLE,1968.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1969.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1970.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1971.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1972.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1973.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1974.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1975.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1976.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1977.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1978.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1979.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1980.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1981.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1982.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1983.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1984.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1985.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1986.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1987.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1988.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1989.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1990.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1991.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1992.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1993.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1994.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1995.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1996.0,1.0,1.0,0.0,AFR
+Sierra Leone,SLE,1997.0,0.0,0.0,1.0,AFR
+Sierra Leone,SLE,1998.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,1999.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,2000.0,0.0,0.0,0.0,AFR
+Sierra Leone,SLE,2001.0,1.0,1.0,0.0,AFR
+Sierra Leone,SLE,2002.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2003.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2004.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2005.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2006.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2007.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2008.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2009.0,0.0,1.0,0.0,AFR
+Sierra Leone,SLE,2010.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1960.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1961.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1962.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1963.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1964.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1965.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1966.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1967.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1968.0,0.0,1.0,0.0,AFR
+Somalia,SOM,1969.0,0.0,0.0,1.0,AFR
+Somalia,SOM,1970.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1971.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1972.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1973.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1974.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1975.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1976.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1977.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1978.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1979.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1980.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1981.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1982.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1983.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1984.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1985.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1986.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1987.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1988.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1989.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1990.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1991.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1992.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1993.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1994.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1995.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1996.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1997.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1998.0,0.0,0.0,0.0,AFR
+Somalia,SOM,1999.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2000.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2001.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2002.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2003.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2004.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2005.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2006.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2007.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2008.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2009.0,0.0,0.0,0.0,AFR
+Somalia,SOM,2010.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1960.0,,,,AFR
+São Tomé & Príncipe,STP,1961.0,,,,AFR
+São Tomé & Príncipe,STP,1962.0,,,,AFR
+São Tomé & Príncipe,STP,1963.0,,,,AFR
+São Tomé & Príncipe,STP,1964.0,,,,AFR
+São Tomé & Príncipe,STP,1965.0,,,,AFR
+São Tomé & Príncipe,STP,1966.0,,,,AFR
+São Tomé & Príncipe,STP,1967.0,,,,AFR
+São Tomé & Príncipe,STP,1968.0,,,,AFR
+São Tomé & Príncipe,STP,1969.0,,,,AFR
+São Tomé & Príncipe,STP,1970.0,,,,AFR
+São Tomé & Príncipe,STP,1971.0,,,,AFR
+São Tomé & Príncipe,STP,1972.0,,,,AFR
+São Tomé & Príncipe,STP,1973.0,,,,AFR
+São Tomé & Príncipe,STP,1974.0,,,,AFR
+São Tomé & Príncipe,STP,1975.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1976.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1977.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1978.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1979.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1980.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1981.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1982.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1983.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1984.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1985.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1986.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1987.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1988.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1989.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1990.0,0.0,0.0,0.0,AFR
+São Tomé & Príncipe,STP,1991.0,1.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1992.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1993.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1994.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1995.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1996.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1997.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1998.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,1999.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2000.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2001.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2002.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2003.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2004.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2005.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2006.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2007.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2008.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2009.0,0.0,1.0,0.0,AFR
+São Tomé & Príncipe,STP,2010.0,0.0,1.0,0.0,AFR
+Swaziland,SWZ,1960.0,,,,AFR
+Swaziland,SWZ,1961.0,,,,AFR
+Swaziland,SWZ,1962.0,,,,AFR
+Swaziland,SWZ,1963.0,,,,AFR
+Swaziland,SWZ,1964.0,,,,AFR
+Swaziland,SWZ,1965.0,,,,AFR
+Swaziland,SWZ,1966.0,,,,AFR
+Swaziland,SWZ,1967.0,,,,AFR
+Swaziland,SWZ,1968.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1969.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1970.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1971.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1972.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1973.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1974.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1975.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1976.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1977.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1978.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1979.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1980.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1981.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1982.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1983.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1984.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1985.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1986.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1987.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1988.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1989.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1990.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1991.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1992.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1993.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1994.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1995.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1996.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1997.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1998.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,1999.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2000.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2001.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2002.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2003.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2004.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2005.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2006.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2007.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2008.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2009.0,0.0,0.0,0.0,AFR
+Swaziland,SWZ,2010.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1960.0,,,,AFR
+Seychelles,SYC,1961.0,,,,AFR
+Seychelles,SYC,1962.0,,,,AFR
+Seychelles,SYC,1963.0,,,,AFR
+Seychelles,SYC,1964.0,,,,AFR
+Seychelles,SYC,1965.0,,,,AFR
+Seychelles,SYC,1966.0,,,,AFR
+Seychelles,SYC,1967.0,,,,AFR
+Seychelles,SYC,1968.0,,,,AFR
+Seychelles,SYC,1969.0,,,,AFR
+Seychelles,SYC,1970.0,,,,AFR
+Seychelles,SYC,1971.0,,,,AFR
+Seychelles,SYC,1972.0,,,,AFR
+Seychelles,SYC,1973.0,,,,AFR
+Seychelles,SYC,1974.0,,,,AFR
+Seychelles,SYC,1975.0,,,,AFR
+Seychelles,SYC,1976.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1977.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1978.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1979.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1980.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1981.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1982.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1983.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1984.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1985.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1986.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1987.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1988.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1989.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1990.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1991.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1992.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1993.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1994.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1995.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1996.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1997.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1998.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,1999.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2000.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2001.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2002.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2003.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2004.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2005.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2006.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2007.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2008.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2009.0,0.0,0.0,0.0,AFR
+Seychelles,SYC,2010.0,0.0,0.0,0.0,AFR
+Chad,TCD,1960.0,0.0,0.0,0.0,AFR
+Chad,TCD,1961.0,0.0,0.0,0.0,AFR
+Chad,TCD,1962.0,0.0,0.0,0.0,AFR
+Chad,TCD,1963.0,0.0,0.0,0.0,AFR
+Chad,TCD,1964.0,0.0,0.0,0.0,AFR
+Chad,TCD,1965.0,0.0,0.0,0.0,AFR
+Chad,TCD,1966.0,0.0,0.0,0.0,AFR
+Chad,TCD,1967.0,0.0,0.0,0.0,AFR
+Chad,TCD,1968.0,0.0,0.0,0.0,AFR
+Chad,TCD,1969.0,0.0,0.0,0.0,AFR
+Chad,TCD,1970.0,0.0,0.0,0.0,AFR
+Chad,TCD,1971.0,0.0,0.0,0.0,AFR
+Chad,TCD,1972.0,0.0,0.0,0.0,AFR
+Chad,TCD,1973.0,0.0,0.0,0.0,AFR
+Chad,TCD,1974.0,0.0,0.0,0.0,AFR
+Chad,TCD,1975.0,0.0,0.0,0.0,AFR
+Chad,TCD,1976.0,0.0,0.0,0.0,AFR
+Chad,TCD,1977.0,0.0,0.0,0.0,AFR
+Chad,TCD,1978.0,0.0,0.0,0.0,AFR
+Chad,TCD,1979.0,0.0,0.0,0.0,AFR
+Chad,TCD,1980.0,0.0,0.0,0.0,AFR
+Chad,TCD,1981.0,0.0,0.0,0.0,AFR
+Chad,TCD,1982.0,0.0,0.0,0.0,AFR
+Chad,TCD,1983.0,0.0,0.0,0.0,AFR
+Chad,TCD,1984.0,0.0,0.0,0.0,AFR
+Chad,TCD,1985.0,0.0,0.0,0.0,AFR
+Chad,TCD,1986.0,0.0,0.0,0.0,AFR
+Chad,TCD,1987.0,0.0,0.0,0.0,AFR
+Chad,TCD,1988.0,0.0,0.0,0.0,AFR
+Chad,TCD,1989.0,0.0,0.0,0.0,AFR
+Chad,TCD,1990.0,0.0,0.0,0.0,AFR
+Chad,TCD,1991.0,0.0,0.0,0.0,AFR
+Chad,TCD,1992.0,0.0,0.0,0.0,AFR
+Chad,TCD,1993.0,0.0,0.0,0.0,AFR
+Chad,TCD,1994.0,0.0,0.0,0.0,AFR
+Chad,TCD,1995.0,0.0,0.0,0.0,AFR
+Chad,TCD,1996.0,0.0,0.0,0.0,AFR
+Chad,TCD,1997.0,0.0,0.0,0.0,AFR
+Chad,TCD,1998.0,0.0,0.0,0.0,AFR
+Chad,TCD,1999.0,0.0,0.0,0.0,AFR
+Chad,TCD,2000.0,0.0,0.0,0.0,AFR
+Chad,TCD,2001.0,0.0,0.0,0.0,AFR
+Chad,TCD,2002.0,0.0,0.0,0.0,AFR
+Chad,TCD,2003.0,0.0,0.0,0.0,AFR
+Chad,TCD,2004.0,0.0,0.0,0.0,AFR
+Chad,TCD,2005.0,0.0,0.0,0.0,AFR
+Chad,TCD,2006.0,0.0,0.0,0.0,AFR
+Chad,TCD,2007.0,0.0,0.0,0.0,AFR
+Chad,TCD,2008.0,0.0,0.0,0.0,AFR
+Chad,TCD,2009.0,0.0,0.0,0.0,AFR
+Chad,TCD,2010.0,0.0,0.0,0.0,AFR
+Togo,TGO,1960.0,0.0,0.0,0.0,AFR
+Togo,TGO,1961.0,0.0,0.0,0.0,AFR
+Togo,TGO,1962.0,0.0,0.0,0.0,AFR
+Togo,TGO,1963.0,0.0,0.0,0.0,AFR
+Togo,TGO,1964.0,0.0,0.0,0.0,AFR
+Togo,TGO,1965.0,0.0,0.0,0.0,AFR
+Togo,TGO,1966.0,0.0,0.0,0.0,AFR
+Togo,TGO,1967.0,0.0,0.0,0.0,AFR
+Togo,TGO,1968.0,0.0,0.0,0.0,AFR
+Togo,TGO,1969.0,0.0,0.0,0.0,AFR
+Togo,TGO,1970.0,0.0,0.0,0.0,AFR
+Togo,TGO,1971.0,0.0,0.0,0.0,AFR
+Togo,TGO,1972.0,0.0,0.0,0.0,AFR
+Togo,TGO,1973.0,0.0,0.0,0.0,AFR
+Togo,TGO,1974.0,0.0,0.0,0.0,AFR
+Togo,TGO,1975.0,0.0,0.0,0.0,AFR
+Togo,TGO,1976.0,0.0,0.0,0.0,AFR
+Togo,TGO,1977.0,0.0,0.0,0.0,AFR
+Togo,TGO,1978.0,0.0,0.0,0.0,AFR
+Togo,TGO,1979.0,0.0,0.0,0.0,AFR
+Togo,TGO,1980.0,0.0,0.0,0.0,AFR
+Togo,TGO,1981.0,0.0,0.0,0.0,AFR
+Togo,TGO,1982.0,0.0,0.0,0.0,AFR
+Togo,TGO,1983.0,0.0,0.0,0.0,AFR
+Togo,TGO,1984.0,0.0,0.0,0.0,AFR
+Togo,TGO,1985.0,0.0,0.0,0.0,AFR
+Togo,TGO,1986.0,0.0,0.0,0.0,AFR
+Togo,TGO,1987.0,0.0,0.0,0.0,AFR
+Togo,TGO,1988.0,0.0,0.0,0.0,AFR
+Togo,TGO,1989.0,0.0,0.0,0.0,AFR
+Togo,TGO,1990.0,0.0,0.0,0.0,AFR
+Togo,TGO,1991.0,0.0,0.0,0.0,AFR
+Togo,TGO,1992.0,0.0,0.0,0.0,AFR
+Togo,TGO,1993.0,0.0,0.0,0.0,AFR
+Togo,TGO,1994.0,0.0,0.0,0.0,AFR
+Togo,TGO,1995.0,0.0,0.0,0.0,AFR
+Togo,TGO,1996.0,0.0,0.0,0.0,AFR
+Togo,TGO,1997.0,0.0,0.0,0.0,AFR
+Togo,TGO,1998.0,0.0,0.0,0.0,AFR
+Togo,TGO,1999.0,0.0,0.0,0.0,AFR
+Togo,TGO,2000.0,0.0,0.0,0.0,AFR
+Togo,TGO,2001.0,0.0,0.0,0.0,AFR
+Togo,TGO,2002.0,0.0,0.0,0.0,AFR
+Togo,TGO,2003.0,0.0,0.0,0.0,AFR
+Togo,TGO,2004.0,0.0,0.0,0.0,AFR
+Togo,TGO,2005.0,0.0,0.0,0.0,AFR
+Togo,TGO,2006.0,0.0,0.0,0.0,AFR
+Togo,TGO,2007.0,0.0,0.0,0.0,AFR
+Togo,TGO,2008.0,0.0,0.0,0.0,AFR
+Togo,TGO,2009.0,0.0,0.0,0.0,AFR
+Togo,TGO,2010.0,0.0,0.0,0.0,AFR
+Tunisia,TUN,1960.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1961.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1962.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1963.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1964.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1965.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1966.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1967.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1968.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1969.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1970.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1971.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1972.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1973.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1974.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1975.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1976.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1977.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1978.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1979.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1980.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1981.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1982.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1983.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1984.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1985.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1986.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1987.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1988.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1989.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1990.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1991.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1992.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1993.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1994.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1995.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1996.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1997.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1998.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,1999.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2000.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2001.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2002.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2003.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2004.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2005.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2006.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2007.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2008.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2009.0,0.0,0.0,0.0,MNA
+Tunisia,TUN,2010.0,0.0,0.0,0.0,MNA
+Tanzania,TZA,1960.0,,,,AFR
+Tanzania,TZA,1961.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1962.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1963.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1964.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1965.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1966.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1967.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1968.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1969.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1970.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1971.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1972.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1973.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1974.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1975.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1976.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1977.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1978.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1979.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1980.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1981.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1982.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1983.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1984.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1985.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1986.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1987.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1988.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1989.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1990.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1991.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1992.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1993.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1994.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1995.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1996.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1997.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1998.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,1999.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2000.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2001.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2002.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2003.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2004.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2005.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2006.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2007.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2008.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2009.0,0.0,0.0,0.0,AFR
+Tanzania,TZA,2010.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1960.0,,,,AFR
+Uganda,UGA,1961.0,,,,AFR
+Uganda,UGA,1962.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1963.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1964.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1965.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1966.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1967.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1968.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1969.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1970.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1971.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1972.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1973.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1974.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1975.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1976.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1977.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1978.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1979.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1980.0,1.0,1.0,0.0,AFR
+Uganda,UGA,1981.0,0.0,1.0,0.0,AFR
+Uganda,UGA,1982.0,0.0,1.0,0.0,AFR
+Uganda,UGA,1983.0,0.0,1.0,0.0,AFR
+Uganda,UGA,1984.0,0.0,1.0,0.0,AFR
+Uganda,UGA,1985.0,0.0,0.0,1.0,AFR
+Uganda,UGA,1986.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1987.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1988.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1989.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1990.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1991.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1992.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1993.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1994.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1995.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1996.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1997.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1998.0,0.0,0.0,0.0,AFR
+Uganda,UGA,1999.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2000.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2001.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2002.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2003.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2004.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2005.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2006.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2007.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2008.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2009.0,0.0,0.0,0.0,AFR
+Uganda,UGA,2010.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1960.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1961.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1962.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1963.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1964.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1965.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1966.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1967.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1968.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1969.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1970.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1971.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1972.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1973.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1974.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1975.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1976.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1977.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1978.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1979.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1980.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1981.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1982.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1983.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1984.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1985.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1986.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1987.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1988.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1989.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1990.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1991.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1992.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1993.0,0.0,0.0,0.0,AFR
+South Africa,ZAF,1994.0,1.0,1.0,0.0,AFR
+South Africa,ZAF,1995.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,1996.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,1997.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,1998.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,1999.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2000.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2001.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2002.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2003.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2004.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2005.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2006.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2007.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2008.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2009.0,0.0,1.0,0.0,AFR
+South Africa,ZAF,2010.0,0.0,1.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1960.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1961.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1962.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1963.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1964.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1965.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1966.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1967.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1968.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1969.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1970.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1971.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1972.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1973.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1974.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1975.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1976.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1977.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1978.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1979.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1980.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1981.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1982.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1983.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1984.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1985.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1986.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1987.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1988.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1989.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1990.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1991.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1992.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1993.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1994.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1995.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1996.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1997.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1998.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,1999.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2000.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2001.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2002.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2003.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2004.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2005.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2006.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2007.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2008.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2009.0,0.0,0.0,0.0,AFR
+"Congo, Dem. Rep. of",COD,2010.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1960.0,,,,AFR
+Zambia,ZMB,1961.0,,,,AFR
+Zambia,ZMB,1962.0,,,,AFR
+Zambia,ZMB,1963.0,,,,AFR
+Zambia,ZMB,1964.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1965.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1966.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1967.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1968.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1969.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1970.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1971.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1972.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1973.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1974.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1975.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1976.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1977.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1978.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1979.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1980.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1981.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1982.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1983.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1984.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1985.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1986.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1987.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1988.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1989.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1990.0,0.0,0.0,0.0,AFR
+Zambia,ZMB,1991.0,1.0,1.0,0.0,AFR
+Zambia,ZMB,1992.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1993.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1994.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1995.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1996.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1997.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1998.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,1999.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2000.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2001.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2002.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2003.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2004.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2005.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2006.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2007.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2008.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2009.0,0.0,1.0,0.0,AFR
+Zambia,ZMB,2010.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1960.0,,,,AFR
+Zimbabwe,ZWE,1961.0,,,,AFR
+Zimbabwe,ZWE,1962.0,,,,AFR
+Zimbabwe,ZWE,1963.0,,,,AFR
+Zimbabwe,ZWE,1964.0,,,,AFR
+Zimbabwe,ZWE,1965.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1966.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1967.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1968.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1969.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1970.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1971.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1972.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1973.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1974.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1975.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1976.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1977.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1978.0,1.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1979.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1980.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1981.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1982.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1983.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1984.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1985.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1986.0,0.0,1.0,0.0,AFR
+Zimbabwe,ZWE,1987.0,0.0,0.0,1.0,AFR
+Zimbabwe,ZWE,1988.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1989.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1990.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1991.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1992.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1993.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1994.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1995.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1996.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1997.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1998.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,1999.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2000.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2001.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2002.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2003.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2004.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2005.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2006.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2007.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2008.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2009.0,0.0,0.0,0.0,AFR
+Zimbabwe,ZWE,2010.0,0.0,0.0,0.0,AFR

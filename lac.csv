@@ -1,0 +1,1684 @@
+name,id,year,yeardem,dem,yearrev,region
+Argentina,ARG,1960.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1961.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1962.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1963.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1964.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1965.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1966.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1967.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1968.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1969.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1970.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1971.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1972.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1973.0,1.0,1.0,0.0,LAC
+Argentina,ARG,1974.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1975.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1976.0,0.0,0.0,1.0,LAC
+Argentina,ARG,1977.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1978.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1979.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1980.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1981.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1982.0,0.0,0.0,0.0,LAC
+Argentina,ARG,1983.0,1.0,1.0,0.0,LAC
+Argentina,ARG,1984.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1985.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1986.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1987.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1988.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1989.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1990.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1991.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1992.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1993.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1994.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1995.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1996.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1997.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1998.0,0.0,1.0,0.0,LAC
+Argentina,ARG,1999.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2000.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2001.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2002.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2003.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2004.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2005.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2006.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2007.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2008.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2009.0,0.0,1.0,0.0,LAC
+Argentina,ARG,2010.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1960.0,,,,LAC
+Antigua and Barbuda,ATG,1961.0,,,,LAC
+Antigua and Barbuda,ATG,1962.0,,,,LAC
+Antigua and Barbuda,ATG,1963.0,,,,LAC
+Antigua and Barbuda,ATG,1964.0,,,,LAC
+Antigua and Barbuda,ATG,1965.0,,,,LAC
+Antigua and Barbuda,ATG,1966.0,,,,LAC
+Antigua and Barbuda,ATG,1967.0,,,,LAC
+Antigua and Barbuda,ATG,1968.0,,,,LAC
+Antigua and Barbuda,ATG,1969.0,,,,LAC
+Antigua and Barbuda,ATG,1970.0,,,,LAC
+Antigua and Barbuda,ATG,1971.0,,,,LAC
+Antigua and Barbuda,ATG,1972.0,,,,LAC
+Antigua and Barbuda,ATG,1973.0,,,,LAC
+Antigua and Barbuda,ATG,1974.0,,,,LAC
+Antigua and Barbuda,ATG,1975.0,,,,LAC
+Antigua and Barbuda,ATG,1976.0,,,,LAC
+Antigua and Barbuda,ATG,1977.0,,,,LAC
+Antigua and Barbuda,ATG,1978.0,,,,LAC
+Antigua and Barbuda,ATG,1979.0,,,,LAC
+Antigua and Barbuda,ATG,1980.0,,,,LAC
+Antigua and Barbuda,ATG,1981.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1982.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1983.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1984.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1985.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1986.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1987.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1988.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1989.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1990.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1991.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1992.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1993.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1994.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1995.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1996.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1997.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1998.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,1999.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2000.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2001.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2002.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2003.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2004.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2005.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2006.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2007.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2008.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2009.0,0.0,1.0,0.0,LAC
+Antigua and Barbuda,ATG,2010.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1960.0,,,,LAC
+Bahamas,BHS,1961.0,,,,LAC
+Bahamas,BHS,1962.0,,,,LAC
+Bahamas,BHS,1963.0,,,,LAC
+Bahamas,BHS,1964.0,,,,LAC
+Bahamas,BHS,1965.0,,,,LAC
+Bahamas,BHS,1966.0,,,,LAC
+Bahamas,BHS,1967.0,,,,LAC
+Bahamas,BHS,1968.0,,,,LAC
+Bahamas,BHS,1969.0,,,,LAC
+Bahamas,BHS,1970.0,,,,LAC
+Bahamas,BHS,1971.0,,,,LAC
+Bahamas,BHS,1972.0,,,,LAC
+Bahamas,BHS,1973.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1974.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1975.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1976.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1977.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1978.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1979.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1980.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1981.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1982.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1983.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1984.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1985.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1986.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1987.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1988.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1989.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1990.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1991.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1992.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1993.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1994.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1995.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1996.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1997.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1998.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,1999.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2000.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2001.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2002.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2003.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2004.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2005.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2006.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2007.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2008.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2009.0,0.0,1.0,0.0,LAC
+Bahamas,BHS,2010.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1960.0,,,,LAC
+Belize,BLZ,1961.0,,,,LAC
+Belize,BLZ,1962.0,,,,LAC
+Belize,BLZ,1963.0,,,,LAC
+Belize,BLZ,1964.0,,,,LAC
+Belize,BLZ,1965.0,,,,LAC
+Belize,BLZ,1966.0,,,,LAC
+Belize,BLZ,1967.0,,,,LAC
+Belize,BLZ,1968.0,,,,LAC
+Belize,BLZ,1969.0,,,,LAC
+Belize,BLZ,1970.0,,,,LAC
+Belize,BLZ,1971.0,,,,LAC
+Belize,BLZ,1972.0,,,,LAC
+Belize,BLZ,1973.0,,,,LAC
+Belize,BLZ,1974.0,,,,LAC
+Belize,BLZ,1975.0,,,,LAC
+Belize,BLZ,1976.0,,,,LAC
+Belize,BLZ,1977.0,,,,LAC
+Belize,BLZ,1978.0,,,,LAC
+Belize,BLZ,1979.0,,,,LAC
+Belize,BLZ,1980.0,,,,LAC
+Belize,BLZ,1981.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1982.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1983.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1984.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1985.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1986.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1987.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1988.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1989.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1990.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1991.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1992.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1993.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1994.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1995.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1996.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1997.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1998.0,0.0,1.0,0.0,LAC
+Belize,BLZ,1999.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2000.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2001.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2002.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2003.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2004.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2005.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2006.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2007.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2008.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2009.0,0.0,1.0,0.0,LAC
+Belize,BLZ,2010.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1960.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1961.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1962.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1963.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1964.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1965.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1966.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1967.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1968.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1969.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1970.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1971.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1972.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1973.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1974.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1975.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1976.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1977.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1978.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1979.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1980.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1981.0,0.0,0.0,0.0,LAC
+Bolivia,BOL,1982.0,1.0,1.0,0.0,LAC
+Bolivia,BOL,1983.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1984.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1985.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1986.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1987.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1988.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1989.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1990.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1991.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1992.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1993.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1994.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1995.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1996.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1997.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1998.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,1999.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2000.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2001.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2002.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2003.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2004.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2005.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2006.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2007.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2008.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2009.0,0.0,1.0,0.0,LAC
+Bolivia,BOL,2010.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1960.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1961.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1962.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1963.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1964.0,0.0,0.0,1.0,LAC
+Brazil,BRA,1965.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1966.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1967.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1968.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1969.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1970.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1971.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1972.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1973.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1974.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1975.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1976.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1977.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1978.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1979.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1980.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1981.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1982.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1983.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1984.0,0.0,0.0,0.0,LAC
+Brazil,BRA,1985.0,1.0,1.0,0.0,LAC
+Brazil,BRA,1986.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1987.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1988.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1989.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1990.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1991.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1992.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1993.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1994.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1995.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1996.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1997.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1998.0,0.0,1.0,0.0,LAC
+Brazil,BRA,1999.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2000.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2001.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2002.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2003.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2004.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2005.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2006.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2007.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2008.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2009.0,0.0,1.0,0.0,LAC
+Brazil,BRA,2010.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1960.0,,,,LAC
+Barbados,BRB,1961.0,,,,LAC
+Barbados,BRB,1962.0,,,,LAC
+Barbados,BRB,1963.0,,,,LAC
+Barbados,BRB,1964.0,,,,LAC
+Barbados,BRB,1965.0,,,,LAC
+Barbados,BRB,1966.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1967.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1968.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1969.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1970.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1971.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1972.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1973.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1974.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1975.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1976.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1977.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1978.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1979.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1980.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1981.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1982.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1983.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1984.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1985.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1986.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1987.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1988.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1989.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1990.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1991.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1992.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1993.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1994.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1995.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1996.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1997.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1998.0,0.0,1.0,0.0,LAC
+Barbados,BRB,1999.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2000.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2001.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2002.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2003.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2004.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2005.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2006.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2007.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2008.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2009.0,0.0,1.0,0.0,LAC
+Barbados,BRB,2010.0,0.0,1.0,0.0,LAC
+Chile,CHL,1960.0,0.0,1.0,0.0,LAC
+Chile,CHL,1961.0,0.0,1.0,0.0,LAC
+Chile,CHL,1962.0,0.0,1.0,0.0,LAC
+Chile,CHL,1963.0,0.0,1.0,0.0,LAC
+Chile,CHL,1964.0,0.0,1.0,0.0,LAC
+Chile,CHL,1965.0,0.0,1.0,0.0,LAC
+Chile,CHL,1966.0,0.0,1.0,0.0,LAC
+Chile,CHL,1967.0,0.0,1.0,0.0,LAC
+Chile,CHL,1968.0,0.0,1.0,0.0,LAC
+Chile,CHL,1969.0,0.0,1.0,0.0,LAC
+Chile,CHL,1970.0,0.0,1.0,0.0,LAC
+Chile,CHL,1971.0,0.0,1.0,0.0,LAC
+Chile,CHL,1972.0,0.0,1.0,0.0,LAC
+Chile,CHL,1973.0,0.0,0.0,1.0,LAC
+Chile,CHL,1974.0,0.0,0.0,0.0,LAC
+Chile,CHL,1975.0,0.0,0.0,0.0,LAC
+Chile,CHL,1976.0,0.0,0.0,0.0,LAC
+Chile,CHL,1977.0,0.0,0.0,0.0,LAC
+Chile,CHL,1978.0,0.0,0.0,0.0,LAC
+Chile,CHL,1979.0,0.0,0.0,0.0,LAC
+Chile,CHL,1980.0,0.0,0.0,0.0,LAC
+Chile,CHL,1981.0,0.0,0.0,0.0,LAC
+Chile,CHL,1982.0,0.0,0.0,0.0,LAC
+Chile,CHL,1983.0,0.0,0.0,0.0,LAC
+Chile,CHL,1984.0,0.0,0.0,0.0,LAC
+Chile,CHL,1985.0,0.0,0.0,0.0,LAC
+Chile,CHL,1986.0,0.0,0.0,0.0,LAC
+Chile,CHL,1987.0,0.0,0.0,0.0,LAC
+Chile,CHL,1988.0,0.0,0.0,0.0,LAC
+Chile,CHL,1989.0,0.0,0.0,0.0,LAC
+Chile,CHL,1990.0,1.0,1.0,0.0,LAC
+Chile,CHL,1991.0,0.0,1.0,0.0,LAC
+Chile,CHL,1992.0,0.0,1.0,0.0,LAC
+Chile,CHL,1993.0,0.0,1.0,0.0,LAC
+Chile,CHL,1994.0,0.0,1.0,0.0,LAC
+Chile,CHL,1995.0,0.0,1.0,0.0,LAC
+Chile,CHL,1996.0,0.0,1.0,0.0,LAC
+Chile,CHL,1997.0,0.0,1.0,0.0,LAC
+Chile,CHL,1998.0,0.0,1.0,0.0,LAC
+Chile,CHL,1999.0,0.0,1.0,0.0,LAC
+Chile,CHL,2000.0,0.0,1.0,0.0,LAC
+Chile,CHL,2001.0,0.0,1.0,0.0,LAC
+Chile,CHL,2002.0,0.0,1.0,0.0,LAC
+Chile,CHL,2003.0,0.0,1.0,0.0,LAC
+Chile,CHL,2004.0,0.0,1.0,0.0,LAC
+Chile,CHL,2005.0,0.0,1.0,0.0,LAC
+Chile,CHL,2006.0,0.0,1.0,0.0,LAC
+Chile,CHL,2007.0,0.0,1.0,0.0,LAC
+Chile,CHL,2008.0,0.0,1.0,0.0,LAC
+Chile,CHL,2009.0,0.0,1.0,0.0,LAC
+Chile,CHL,2010.0,0.0,1.0,0.0,LAC
+Colombia,COL,1960.0,0.0,1.0,0.0,LAC
+Colombia,COL,1961.0,0.0,1.0,0.0,LAC
+Colombia,COL,1962.0,0.0,1.0,0.0,LAC
+Colombia,COL,1963.0,0.0,1.0,0.0,LAC
+Colombia,COL,1964.0,0.0,1.0,0.0,LAC
+Colombia,COL,1965.0,0.0,1.0,0.0,LAC
+Colombia,COL,1966.0,0.0,1.0,0.0,LAC
+Colombia,COL,1967.0,0.0,1.0,0.0,LAC
+Colombia,COL,1968.0,0.0,1.0,0.0,LAC
+Colombia,COL,1969.0,0.0,1.0,0.0,LAC
+Colombia,COL,1970.0,0.0,1.0,0.0,LAC
+Colombia,COL,1971.0,0.0,1.0,0.0,LAC
+Colombia,COL,1972.0,0.0,1.0,0.0,LAC
+Colombia,COL,1973.0,0.0,1.0,0.0,LAC
+Colombia,COL,1974.0,0.0,1.0,0.0,LAC
+Colombia,COL,1975.0,0.0,1.0,0.0,LAC
+Colombia,COL,1976.0,0.0,1.0,0.0,LAC
+Colombia,COL,1977.0,0.0,1.0,0.0,LAC
+Colombia,COL,1978.0,0.0,1.0,0.0,LAC
+Colombia,COL,1979.0,0.0,1.0,0.0,LAC
+Colombia,COL,1980.0,0.0,1.0,0.0,LAC
+Colombia,COL,1981.0,0.0,1.0,0.0,LAC
+Colombia,COL,1982.0,0.0,1.0,0.0,LAC
+Colombia,COL,1983.0,0.0,1.0,0.0,LAC
+Colombia,COL,1984.0,0.0,1.0,0.0,LAC
+Colombia,COL,1985.0,0.0,1.0,0.0,LAC
+Colombia,COL,1986.0,0.0,1.0,0.0,LAC
+Colombia,COL,1987.0,0.0,1.0,0.0,LAC
+Colombia,COL,1988.0,0.0,1.0,0.0,LAC
+Colombia,COL,1989.0,0.0,1.0,0.0,LAC
+Colombia,COL,1990.0,0.0,1.0,0.0,LAC
+Colombia,COL,1991.0,0.0,1.0,0.0,LAC
+Colombia,COL,1992.0,0.0,1.0,0.0,LAC
+Colombia,COL,1993.0,0.0,1.0,0.0,LAC
+Colombia,COL,1994.0,0.0,1.0,0.0,LAC
+Colombia,COL,1995.0,0.0,1.0,0.0,LAC
+Colombia,COL,1996.0,0.0,1.0,0.0,LAC
+Colombia,COL,1997.0,0.0,1.0,0.0,LAC
+Colombia,COL,1998.0,0.0,1.0,0.0,LAC
+Colombia,COL,1999.0,0.0,1.0,0.0,LAC
+Colombia,COL,2000.0,0.0,1.0,0.0,LAC
+Colombia,COL,2001.0,0.0,1.0,0.0,LAC
+Colombia,COL,2002.0,0.0,1.0,0.0,LAC
+Colombia,COL,2003.0,0.0,1.0,0.0,LAC
+Colombia,COL,2004.0,0.0,1.0,0.0,LAC
+Colombia,COL,2005.0,0.0,1.0,0.0,LAC
+Colombia,COL,2006.0,0.0,1.0,0.0,LAC
+Colombia,COL,2007.0,0.0,1.0,0.0,LAC
+Colombia,COL,2008.0,0.0,1.0,0.0,LAC
+Colombia,COL,2009.0,0.0,1.0,0.0,LAC
+Colombia,COL,2010.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1960.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1961.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1962.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1963.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1964.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1965.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1966.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1967.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1968.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1969.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1970.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1971.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1972.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1973.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1974.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1975.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1976.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1977.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1978.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1979.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1980.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1981.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1982.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1983.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1984.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1985.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1986.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1987.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1988.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1989.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1990.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1991.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1992.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1993.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1994.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1995.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1996.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1997.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1998.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,1999.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2000.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2001.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2002.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2003.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2004.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2005.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2006.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2007.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2008.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2009.0,0.0,1.0,0.0,LAC
+Costa Rica,CRI,2010.0,0.0,1.0,0.0,LAC
+Cuba,CUB,1960.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1961.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1962.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1963.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1964.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1965.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1966.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1967.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1968.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1969.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1970.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1971.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1972.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1973.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1974.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1975.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1976.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1977.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1978.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1979.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1980.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1981.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1982.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1983.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1984.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1985.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1986.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1987.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1988.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1989.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1990.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1991.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1992.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1993.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1994.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1995.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1996.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1997.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1998.0,0.0,0.0,0.0,LAC
+Cuba,CUB,1999.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2000.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2001.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2002.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2003.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2004.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2005.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2006.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2007.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2008.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2009.0,0.0,0.0,0.0,LAC
+Cuba,CUB,2010.0,0.0,0.0,0.0,LAC
+Dominica,DMA,1960.0,,,,LAC
+Dominica,DMA,1961.0,,,,LAC
+Dominica,DMA,1962.0,,,,LAC
+Dominica,DMA,1963.0,,,,LAC
+Dominica,DMA,1964.0,,,,LAC
+Dominica,DMA,1965.0,,,,LAC
+Dominica,DMA,1966.0,,,,LAC
+Dominica,DMA,1967.0,,,,LAC
+Dominica,DMA,1968.0,,,,LAC
+Dominica,DMA,1969.0,,,,LAC
+Dominica,DMA,1970.0,,,,LAC
+Dominica,DMA,1971.0,,,,LAC
+Dominica,DMA,1972.0,,,,LAC
+Dominica,DMA,1973.0,,,,LAC
+Dominica,DMA,1974.0,,,,LAC
+Dominica,DMA,1975.0,,,,LAC
+Dominica,DMA,1976.0,,,,LAC
+Dominica,DMA,1977.0,,,,LAC
+Dominica,DMA,1978.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1979.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1980.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1981.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1982.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1983.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1984.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1985.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1986.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1987.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1988.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1989.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1990.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1991.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1992.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1993.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1994.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1995.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1996.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1997.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1998.0,0.0,1.0,0.0,LAC
+Dominica,DMA,1999.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2000.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2001.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2002.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2003.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2004.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2005.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2006.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2007.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2008.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2009.0,0.0,1.0,0.0,LAC
+Dominica,DMA,2010.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1960.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1961.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1962.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1963.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1964.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1965.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1966.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1967.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1968.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1969.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1970.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1971.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1972.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1973.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1974.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1975.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1976.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1977.0,0.0,0.0,0.0,LAC
+Dominican Republic,DOM,1978.0,1.0,1.0,0.0,LAC
+Dominican Republic,DOM,1979.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1980.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1981.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1982.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1983.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1984.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1985.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1986.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1987.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1988.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1989.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1990.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1991.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1992.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1993.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1994.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1995.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1996.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1997.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1998.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,1999.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2000.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2001.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2002.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2003.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2004.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2005.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2006.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2007.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2008.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2009.0,0.0,1.0,0.0,LAC
+Dominican Republic,DOM,2010.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1960.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1961.0,0.0,0.0,1.0,LAC
+Ecuador,ECU,1962.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1963.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1964.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1965.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1966.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1967.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1968.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1969.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1970.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1971.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1972.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1973.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1974.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1975.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1976.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1977.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1978.0,0.0,0.0,0.0,LAC
+Ecuador,ECU,1979.0,1.0,1.0,0.0,LAC
+Ecuador,ECU,1980.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1981.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1982.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1983.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1984.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1985.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1986.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1987.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1988.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1989.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1990.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1991.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1992.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1993.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1994.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1995.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1996.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1997.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1998.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,1999.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2000.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2001.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2002.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2003.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2004.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2005.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2006.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2007.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2008.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2009.0,0.0,1.0,0.0,LAC
+Ecuador,ECU,2010.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1960.0,,,,LAC
+Grenada,GRD,1961.0,,,,LAC
+Grenada,GRD,1962.0,,,,LAC
+Grenada,GRD,1963.0,,,,LAC
+Grenada,GRD,1964.0,,,,LAC
+Grenada,GRD,1965.0,,,,LAC
+Grenada,GRD,1966.0,,,,LAC
+Grenada,GRD,1967.0,,,,LAC
+Grenada,GRD,1968.0,,,,LAC
+Grenada,GRD,1969.0,,,,LAC
+Grenada,GRD,1970.0,,,,LAC
+Grenada,GRD,1971.0,,,,LAC
+Grenada,GRD,1972.0,,,,LAC
+Grenada,GRD,1973.0,,,,LAC
+Grenada,GRD,1974.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1975.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1976.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1977.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1978.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1979.0,0.0,0.0,1.0,LAC
+Grenada,GRD,1980.0,0.0,0.0,0.0,LAC
+Grenada,GRD,1981.0,0.0,0.0,0.0,LAC
+Grenada,GRD,1982.0,0.0,0.0,0.0,LAC
+Grenada,GRD,1983.0,0.0,0.0,0.0,LAC
+Grenada,GRD,1984.0,1.0,1.0,0.0,LAC
+Grenada,GRD,1985.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1986.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1987.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1988.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1989.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1990.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1991.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1992.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1993.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1994.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1995.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1996.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1997.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1998.0,0.0,1.0,0.0,LAC
+Grenada,GRD,1999.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2000.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2001.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2002.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2003.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2004.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2005.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2006.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2007.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2008.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2009.0,0.0,1.0,0.0,LAC
+Grenada,GRD,2010.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1960.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1961.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1962.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1963.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1964.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1965.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1966.0,1.0,1.0,0.0,LAC
+Guatemala,GTM,1967.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1968.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1969.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1970.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1971.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1972.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1973.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1974.0,0.0,0.0,1.0,LAC
+Guatemala,GTM,1975.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1976.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1977.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1978.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1979.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1980.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1981.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1982.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1983.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1984.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1985.0,0.0,0.0,0.0,LAC
+Guatemala,GTM,1986.0,1.0,1.0,0.0,LAC
+Guatemala,GTM,1987.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1988.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1989.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1990.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1991.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1992.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1993.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1994.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1995.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1996.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1997.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1998.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,1999.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2000.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2001.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2002.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2003.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2004.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2005.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2006.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2007.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2008.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2009.0,0.0,1.0,0.0,LAC
+Guatemala,GTM,2010.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1960.0,,,,LAC
+Guyana,GUY,1961.0,,,,LAC
+Guyana,GUY,1962.0,,,,LAC
+Guyana,GUY,1963.0,,,,LAC
+Guyana,GUY,1964.0,,,,LAC
+Guyana,GUY,1965.0,,,,LAC
+Guyana,GUY,1966.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1967.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1968.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1969.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1970.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1971.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1972.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1973.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1974.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1975.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1976.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1977.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1978.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1979.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1980.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1981.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1982.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1983.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1984.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1985.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1986.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1987.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1988.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1989.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1990.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1991.0,0.0,0.0,0.0,LAC
+Guyana,GUY,1992.0,1.0,1.0,0.0,LAC
+Guyana,GUY,1993.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1994.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1995.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1996.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1997.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1998.0,0.0,1.0,0.0,LAC
+Guyana,GUY,1999.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2000.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2001.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2002.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2003.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2004.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2005.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2006.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2007.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2008.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2009.0,0.0,1.0,0.0,LAC
+Guyana,GUY,2010.0,0.0,1.0,0.0,LAC
+Honduras,HND,1960.0,0.0,0.0,0.0,LAC
+Honduras,HND,1961.0,0.0,0.0,0.0,LAC
+Honduras,HND,1962.0,0.0,0.0,0.0,LAC
+Honduras,HND,1963.0,0.0,0.0,0.0,LAC
+Honduras,HND,1964.0,0.0,0.0,0.0,LAC
+Honduras,HND,1965.0,0.0,0.0,0.0,LAC
+Honduras,HND,1966.0,0.0,0.0,0.0,LAC
+Honduras,HND,1967.0,0.0,0.0,0.0,LAC
+Honduras,HND,1968.0,0.0,0.0,0.0,LAC
+Honduras,HND,1969.0,0.0,0.0,0.0,LAC
+Honduras,HND,1970.0,0.0,0.0,0.0,LAC
+Honduras,HND,1971.0,0.0,0.0,0.0,LAC
+Honduras,HND,1972.0,0.0,0.0,0.0,LAC
+Honduras,HND,1973.0,0.0,0.0,0.0,LAC
+Honduras,HND,1974.0,0.0,0.0,0.0,LAC
+Honduras,HND,1975.0,0.0,0.0,0.0,LAC
+Honduras,HND,1976.0,0.0,0.0,0.0,LAC
+Honduras,HND,1977.0,0.0,0.0,0.0,LAC
+Honduras,HND,1978.0,0.0,0.0,0.0,LAC
+Honduras,HND,1979.0,0.0,0.0,0.0,LAC
+Honduras,HND,1980.0,0.0,0.0,0.0,LAC
+Honduras,HND,1981.0,0.0,0.0,0.0,LAC
+Honduras,HND,1982.0,1.0,1.0,0.0,LAC
+Honduras,HND,1983.0,0.0,1.0,0.0,LAC
+Honduras,HND,1984.0,0.0,1.0,0.0,LAC
+Honduras,HND,1985.0,0.0,1.0,0.0,LAC
+Honduras,HND,1986.0,0.0,1.0,0.0,LAC
+Honduras,HND,1987.0,0.0,1.0,0.0,LAC
+Honduras,HND,1988.0,0.0,1.0,0.0,LAC
+Honduras,HND,1989.0,0.0,1.0,0.0,LAC
+Honduras,HND,1990.0,0.0,1.0,0.0,LAC
+Honduras,HND,1991.0,0.0,1.0,0.0,LAC
+Honduras,HND,1992.0,0.0,1.0,0.0,LAC
+Honduras,HND,1993.0,0.0,1.0,0.0,LAC
+Honduras,HND,1994.0,0.0,1.0,0.0,LAC
+Honduras,HND,1995.0,0.0,1.0,0.0,LAC
+Honduras,HND,1996.0,0.0,1.0,0.0,LAC
+Honduras,HND,1997.0,0.0,1.0,0.0,LAC
+Honduras,HND,1998.0,0.0,1.0,0.0,LAC
+Honduras,HND,1999.0,0.0,1.0,0.0,LAC
+Honduras,HND,2000.0,0.0,1.0,0.0,LAC
+Honduras,HND,2001.0,0.0,1.0,0.0,LAC
+Honduras,HND,2002.0,0.0,1.0,0.0,LAC
+Honduras,HND,2003.0,0.0,1.0,0.0,LAC
+Honduras,HND,2004.0,0.0,1.0,0.0,LAC
+Honduras,HND,2005.0,0.0,1.0,0.0,LAC
+Honduras,HND,2006.0,0.0,1.0,0.0,LAC
+Honduras,HND,2007.0,0.0,1.0,0.0,LAC
+Honduras,HND,2008.0,0.0,1.0,0.0,LAC
+Honduras,HND,2009.0,0.0,1.0,0.0,LAC
+Honduras,HND,2010.0,0.0,1.0,0.0,LAC
+Haiti,HTI,1960.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1961.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1962.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1963.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1964.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1965.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1966.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1967.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1968.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1969.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1970.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1971.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1972.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1973.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1974.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1975.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1976.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1977.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1978.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1979.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1980.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1981.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1982.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1983.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1984.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1985.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1986.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1987.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1988.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1989.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1990.0,1.0,1.0,0.0,LAC
+Haiti,HTI,1991.0,0.0,0.0,1.0,LAC
+Haiti,HTI,1992.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1993.0,0.0,0.0,0.0,LAC
+Haiti,HTI,1994.0,1.0,1.0,0.0,LAC
+Haiti,HTI,1995.0,0.0,1.0,0.0,LAC
+Haiti,HTI,1996.0,0.0,1.0,0.0,LAC
+Haiti,HTI,1997.0,0.0,1.0,0.0,LAC
+Haiti,HTI,1998.0,0.0,1.0,0.0,LAC
+Haiti,HTI,1999.0,0.0,1.0,0.0,LAC
+Haiti,HTI,2000.0,0.0,0.0,1.0,LAC
+Haiti,HTI,2001.0,0.0,0.0,0.0,LAC
+Haiti,HTI,2002.0,0.0,0.0,0.0,LAC
+Haiti,HTI,2003.0,0.0,0.0,0.0,LAC
+Haiti,HTI,2004.0,0.0,0.0,0.0,LAC
+Haiti,HTI,2005.0,0.0,0.0,0.0,LAC
+Haiti,HTI,2006.0,1.0,1.0,0.0,LAC
+Haiti,HTI,2007.0,0.0,1.0,0.0,LAC
+Haiti,HTI,2008.0,0.0,1.0,0.0,LAC
+Haiti,HTI,2009.0,0.0,1.0,0.0,LAC
+Haiti,HTI,2010.0,0.0,0.0,1.0,LAC
+Jamaica,JAM,1960.0,,,,LAC
+Jamaica,JAM,1961.0,,,,LAC
+Jamaica,JAM,1962.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1963.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1964.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1965.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1966.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1967.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1968.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1969.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1970.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1971.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1972.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1973.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1974.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1975.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1976.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1977.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1978.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1979.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1980.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1981.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1982.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1983.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1984.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1985.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1986.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1987.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1988.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1989.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1990.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1991.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1992.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1993.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1994.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1995.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1996.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1997.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1998.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,1999.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2000.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2001.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2002.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2003.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2004.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2005.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2006.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2007.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2008.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2009.0,0.0,1.0,0.0,LAC
+Jamaica,JAM,2010.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1960.0,,,,LAC
+St. Kitts and Nevis,KNA,1961.0,,,,LAC
+St. Kitts and Nevis,KNA,1962.0,,,,LAC
+St. Kitts and Nevis,KNA,1963.0,,,,LAC
+St. Kitts and Nevis,KNA,1964.0,,,,LAC
+St. Kitts and Nevis,KNA,1965.0,,,,LAC
+St. Kitts and Nevis,KNA,1966.0,,,,LAC
+St. Kitts and Nevis,KNA,1967.0,,,,LAC
+St. Kitts and Nevis,KNA,1968.0,,,,LAC
+St. Kitts and Nevis,KNA,1969.0,,,,LAC
+St. Kitts and Nevis,KNA,1970.0,,,,LAC
+St. Kitts and Nevis,KNA,1971.0,,,,LAC
+St. Kitts and Nevis,KNA,1972.0,,,,LAC
+St. Kitts and Nevis,KNA,1973.0,,,,LAC
+St. Kitts and Nevis,KNA,1974.0,,,,LAC
+St. Kitts and Nevis,KNA,1975.0,,,,LAC
+St. Kitts and Nevis,KNA,1976.0,,,,LAC
+St. Kitts and Nevis,KNA,1977.0,,,,LAC
+St. Kitts and Nevis,KNA,1978.0,,,,LAC
+St. Kitts and Nevis,KNA,1979.0,,,,LAC
+St. Kitts and Nevis,KNA,1980.0,,,,LAC
+St. Kitts and Nevis,KNA,1981.0,,,,LAC
+St. Kitts and Nevis,KNA,1982.0,,,,LAC
+St. Kitts and Nevis,KNA,1983.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1984.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1985.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1986.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1987.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1988.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1989.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1990.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1991.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1992.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1993.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1994.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1995.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1996.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1997.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1998.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,1999.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2000.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2001.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2002.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2003.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2004.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2005.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2006.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2007.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2008.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2009.0,0.0,1.0,0.0,LAC
+St. Kitts and Nevis,KNA,2010.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1960.0,,,,LAC
+St. Lucia,LCA,1961.0,,,,LAC
+St. Lucia,LCA,1962.0,,,,LAC
+St. Lucia,LCA,1963.0,,,,LAC
+St. Lucia,LCA,1964.0,,,,LAC
+St. Lucia,LCA,1965.0,,,,LAC
+St. Lucia,LCA,1966.0,,,,LAC
+St. Lucia,LCA,1967.0,,,,LAC
+St. Lucia,LCA,1968.0,,,,LAC
+St. Lucia,LCA,1969.0,,,,LAC
+St. Lucia,LCA,1970.0,,,,LAC
+St. Lucia,LCA,1971.0,,,,LAC
+St. Lucia,LCA,1972.0,,,,LAC
+St. Lucia,LCA,1973.0,,,,LAC
+St. Lucia,LCA,1974.0,,,,LAC
+St. Lucia,LCA,1975.0,,,,LAC
+St. Lucia,LCA,1976.0,,,,LAC
+St. Lucia,LCA,1977.0,,,,LAC
+St. Lucia,LCA,1978.0,,,,LAC
+St. Lucia,LCA,1979.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1980.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1981.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1982.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1983.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1984.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1985.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1986.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1987.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1988.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1989.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1990.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1991.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1992.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1993.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1994.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1995.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1996.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1997.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1998.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,1999.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2000.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2001.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2002.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2003.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2004.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2005.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2006.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2007.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2008.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2009.0,0.0,1.0,0.0,LAC
+St. Lucia,LCA,2010.0,0.0,1.0,0.0,LAC
+Mexico,MEX,1960.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1961.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1962.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1963.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1964.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1965.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1966.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1967.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1968.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1969.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1970.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1971.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1972.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1973.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1974.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1975.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1976.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1977.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1978.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1979.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1980.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1981.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1982.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1983.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1984.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1985.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1986.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1987.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1988.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1989.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1990.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1991.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1992.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1993.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1994.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1995.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1996.0,0.0,0.0,0.0,LAC
+Mexico,MEX,1997.0,1.0,1.0,0.0,LAC
+Mexico,MEX,1998.0,0.0,1.0,0.0,LAC
+Mexico,MEX,1999.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2000.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2001.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2002.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2003.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2004.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2005.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2006.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2007.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2008.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2009.0,0.0,1.0,0.0,LAC
+Mexico,MEX,2010.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1960.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1961.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1962.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1963.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1964.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1965.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1966.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1967.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1968.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1969.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1970.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1971.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1972.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1973.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1974.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1975.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1976.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1977.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1978.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1979.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1980.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1981.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1982.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1983.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1984.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1985.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1986.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1987.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1988.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1989.0,0.0,0.0,0.0,LAC
+Nicaragua,NIC,1990.0,1.0,1.0,0.0,LAC
+Nicaragua,NIC,1991.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1992.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1993.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1994.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1995.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1996.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1997.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1998.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,1999.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2000.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2001.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2002.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2003.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2004.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2005.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2006.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2007.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2008.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2009.0,0.0,1.0,0.0,LAC
+Nicaragua,NIC,2010.0,0.0,1.0,0.0,LAC
+Panama,PAN,1960.0,0.0,1.0,0.0,LAC
+Panama,PAN,1961.0,0.0,1.0,0.0,LAC
+Panama,PAN,1962.0,0.0,1.0,0.0,LAC
+Panama,PAN,1963.0,0.0,1.0,0.0,LAC
+Panama,PAN,1964.0,0.0,1.0,0.0,LAC
+Panama,PAN,1965.0,0.0,1.0,0.0,LAC
+Panama,PAN,1966.0,0.0,1.0,0.0,LAC
+Panama,PAN,1967.0,0.0,1.0,0.0,LAC
+Panama,PAN,1968.0,0.0,0.0,1.0,LAC
+Panama,PAN,1969.0,0.0,0.0,0.0,LAC
+Panama,PAN,1970.0,0.0,0.0,0.0,LAC
+Panama,PAN,1971.0,0.0,0.0,0.0,LAC
+Panama,PAN,1972.0,0.0,0.0,0.0,LAC
+Panama,PAN,1973.0,0.0,0.0,0.0,LAC
+Panama,PAN,1974.0,0.0,0.0,0.0,LAC
+Panama,PAN,1975.0,0.0,0.0,0.0,LAC
+Panama,PAN,1976.0,0.0,0.0,0.0,LAC
+Panama,PAN,1977.0,0.0,0.0,0.0,LAC
+Panama,PAN,1978.0,0.0,0.0,0.0,LAC
+Panama,PAN,1979.0,0.0,0.0,0.0,LAC
+Panama,PAN,1980.0,0.0,0.0,0.0,LAC
+Panama,PAN,1981.0,0.0,0.0,0.0,LAC
+Panama,PAN,1982.0,0.0,0.0,0.0,LAC
+Panama,PAN,1983.0,0.0,0.0,0.0,LAC
+Panama,PAN,1984.0,0.0,0.0,0.0,LAC
+Panama,PAN,1985.0,0.0,0.0,0.0,LAC
+Panama,PAN,1986.0,0.0,0.0,0.0,LAC
+Panama,PAN,1987.0,0.0,0.0,0.0,LAC
+Panama,PAN,1988.0,0.0,0.0,0.0,LAC
+Panama,PAN,1989.0,0.0,0.0,0.0,LAC
+Panama,PAN,1990.0,0.0,0.0,0.0,LAC
+Panama,PAN,1991.0,0.0,0.0,0.0,LAC
+Panama,PAN,1992.0,0.0,0.0,0.0,LAC
+Panama,PAN,1993.0,0.0,0.0,0.0,LAC
+Panama,PAN,1994.0,1.0,1.0,0.0,LAC
+Panama,PAN,1995.0,0.0,1.0,0.0,LAC
+Panama,PAN,1996.0,0.0,1.0,0.0,LAC
+Panama,PAN,1997.0,0.0,1.0,0.0,LAC
+Panama,PAN,1998.0,0.0,1.0,0.0,LAC
+Panama,PAN,1999.0,0.0,1.0,0.0,LAC
+Panama,PAN,2000.0,0.0,1.0,0.0,LAC
+Panama,PAN,2001.0,0.0,1.0,0.0,LAC
+Panama,PAN,2002.0,0.0,1.0,0.0,LAC
+Panama,PAN,2003.0,0.0,1.0,0.0,LAC
+Panama,PAN,2004.0,0.0,1.0,0.0,LAC
+Panama,PAN,2005.0,0.0,1.0,0.0,LAC
+Panama,PAN,2006.0,0.0,1.0,0.0,LAC
+Panama,PAN,2007.0,0.0,1.0,0.0,LAC
+Panama,PAN,2008.0,0.0,1.0,0.0,LAC
+Panama,PAN,2009.0,0.0,1.0,0.0,LAC
+Panama,PAN,2010.0,0.0,1.0,0.0,LAC
+Peru,PER,1960.0,0.0,1.0,0.0,LAC
+Peru,PER,1961.0,0.0,1.0,0.0,LAC
+Peru,PER,1962.0,0.0,0.0,1.0,LAC
+Peru,PER,1963.0,1.0,1.0,0.0,LAC
+Peru,PER,1964.0,0.0,1.0,0.0,LAC
+Peru,PER,1965.0,0.0,1.0,0.0,LAC
+Peru,PER,1966.0,0.0,1.0,0.0,LAC
+Peru,PER,1967.0,0.0,1.0,0.0,LAC
+Peru,PER,1968.0,0.0,0.0,1.0,LAC
+Peru,PER,1969.0,0.0,0.0,0.0,LAC
+Peru,PER,1970.0,0.0,0.0,0.0,LAC
+Peru,PER,1971.0,0.0,0.0,0.0,LAC
+Peru,PER,1972.0,0.0,0.0,0.0,LAC
+Peru,PER,1973.0,0.0,0.0,0.0,LAC
+Peru,PER,1974.0,0.0,0.0,0.0,LAC
+Peru,PER,1975.0,0.0,0.0,0.0,LAC
+Peru,PER,1976.0,0.0,0.0,0.0,LAC
+Peru,PER,1977.0,0.0,0.0,0.0,LAC
+Peru,PER,1978.0,0.0,0.0,0.0,LAC
+Peru,PER,1979.0,0.0,0.0,0.0,LAC
+Peru,PER,1980.0,1.0,1.0,0.0,LAC
+Peru,PER,1981.0,0.0,1.0,0.0,LAC
+Peru,PER,1982.0,0.0,1.0,0.0,LAC
+Peru,PER,1983.0,0.0,1.0,0.0,LAC
+Peru,PER,1984.0,0.0,1.0,0.0,LAC
+Peru,PER,1985.0,0.0,1.0,0.0,LAC
+Peru,PER,1986.0,0.0,1.0,0.0,LAC
+Peru,PER,1987.0,0.0,1.0,0.0,LAC
+Peru,PER,1988.0,0.0,1.0,0.0,LAC
+Peru,PER,1989.0,0.0,1.0,0.0,LAC
+Peru,PER,1990.0,0.0,1.0,0.0,LAC
+Peru,PER,1991.0,0.0,1.0,0.0,LAC
+Peru,PER,1992.0,0.0,0.0,1.0,LAC
+Peru,PER,1993.0,1.0,1.0,0.0,LAC
+Peru,PER,1994.0,0.0,1.0,0.0,LAC
+Peru,PER,1995.0,0.0,1.0,0.0,LAC
+Peru,PER,1996.0,0.0,1.0,0.0,LAC
+Peru,PER,1997.0,0.0,1.0,0.0,LAC
+Peru,PER,1998.0,0.0,1.0,0.0,LAC
+Peru,PER,1999.0,0.0,1.0,0.0,LAC
+Peru,PER,2000.0,0.0,1.0,0.0,LAC
+Peru,PER,2001.0,0.0,1.0,0.0,LAC
+Peru,PER,2002.0,0.0,1.0,0.0,LAC
+Peru,PER,2003.0,0.0,1.0,0.0,LAC
+Peru,PER,2004.0,0.0,1.0,0.0,LAC
+Peru,PER,2005.0,0.0,1.0,0.0,LAC
+Peru,PER,2006.0,0.0,1.0,0.0,LAC
+Peru,PER,2007.0,0.0,1.0,0.0,LAC
+Peru,PER,2008.0,0.0,1.0,0.0,LAC
+Peru,PER,2009.0,0.0,1.0,0.0,LAC
+Peru,PER,2010.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1960.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1961.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1962.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1963.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1964.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1965.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1966.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1967.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1968.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1969.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1970.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1971.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1972.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1973.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1974.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1975.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1976.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1977.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1978.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1979.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1980.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1981.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1982.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1983.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1984.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1985.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1986.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1987.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1988.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1989.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1990.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1991.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1992.0,0.0,0.0,0.0,LAC
+Paraguay,PRY,1993.0,1.0,1.0,0.0,LAC
+Paraguay,PRY,1994.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1995.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1996.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1997.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1998.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,1999.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2000.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2001.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2002.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2003.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2004.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2005.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2006.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2007.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2008.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2009.0,0.0,1.0,0.0,LAC
+Paraguay,PRY,2010.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1960.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1961.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1962.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1963.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1964.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1965.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1966.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1967.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1968.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1969.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1970.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1971.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1972.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1973.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1974.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1975.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1976.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1977.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1978.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1979.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1980.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1981.0,0.0,0.0,0.0,LAC
+El Salvador,SLV,1982.0,1.0,1.0,0.0,LAC
+El Salvador,SLV,1983.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1984.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1985.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1986.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1987.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1988.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1989.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1990.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1991.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1992.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1993.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1994.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1995.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1996.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1997.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1998.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,1999.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2000.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2001.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2002.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2003.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2004.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2005.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2006.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2007.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2008.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2009.0,0.0,1.0,0.0,LAC
+El Salvador,SLV,2010.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1960.0,,,,LAC
+Suriname,SUR,1961.0,,,,LAC
+Suriname,SUR,1962.0,,,,LAC
+Suriname,SUR,1963.0,,,,LAC
+Suriname,SUR,1964.0,,,,LAC
+Suriname,SUR,1965.0,,,,LAC
+Suriname,SUR,1966.0,,,,LAC
+Suriname,SUR,1967.0,,,,LAC
+Suriname,SUR,1968.0,,,,LAC
+Suriname,SUR,1969.0,,,,LAC
+Suriname,SUR,1970.0,,,,LAC
+Suriname,SUR,1971.0,,,,LAC
+Suriname,SUR,1972.0,,,,LAC
+Suriname,SUR,1973.0,,,,LAC
+Suriname,SUR,1974.0,,,,LAC
+Suriname,SUR,1975.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1976.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1977.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1978.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1979.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1980.0,0.0,0.0,1.0,LAC
+Suriname,SUR,1981.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1982.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1983.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1984.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1985.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1986.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1987.0,0.0,0.0,0.0,LAC
+Suriname,SUR,1988.0,1.0,1.0,0.0,LAC
+Suriname,SUR,1989.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1990.0,0.0,0.0,1.0,LAC
+Suriname,SUR,1991.0,1.0,1.0,0.0,LAC
+Suriname,SUR,1992.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1993.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1994.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1995.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1996.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1997.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1998.0,0.0,1.0,0.0,LAC
+Suriname,SUR,1999.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2000.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2001.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2002.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2003.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2004.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2005.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2006.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2007.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2008.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2009.0,0.0,1.0,0.0,LAC
+Suriname,SUR,2010.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1960.0,,,,LAC
+Trinidad and Tobago,TTO,1961.0,,,,LAC
+Trinidad and Tobago,TTO,1962.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1963.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1964.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1965.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1966.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1967.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1968.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1969.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1970.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1971.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1972.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1973.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1974.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1975.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1976.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1977.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1978.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1979.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1980.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1981.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1982.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1983.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1984.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1985.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1986.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1987.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1988.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1989.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1990.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1991.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1992.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1993.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1994.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1995.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1996.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1997.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1998.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,1999.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2000.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2001.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2002.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2003.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2004.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2005.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2006.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2007.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2008.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2009.0,0.0,1.0,0.0,LAC
+Trinidad and Tobago,TTO,2010.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1960.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1961.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1962.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1963.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1964.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1965.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1966.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1967.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1968.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1969.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1970.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1971.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1972.0,0.0,0.0,1.0,LAC
+Uruguay,URY,1973.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1974.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1975.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1976.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1977.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1978.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1979.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1980.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1981.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1982.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1983.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1984.0,0.0,0.0,0.0,LAC
+Uruguay,URY,1985.0,1.0,1.0,0.0,LAC
+Uruguay,URY,1986.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1987.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1988.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1989.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1990.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1991.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1992.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1993.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1994.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1995.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1996.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1997.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1998.0,0.0,1.0,0.0,LAC
+Uruguay,URY,1999.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2000.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2001.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2002.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2003.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2004.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2005.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2006.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2007.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2008.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2009.0,0.0,1.0,0.0,LAC
+Uruguay,URY,2010.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1960.0,,,,LAC
+St. Vincent & Grens.,VCT,1961.0,,,,LAC
+St. Vincent & Grens.,VCT,1962.0,,,,LAC
+St. Vincent & Grens.,VCT,1963.0,,,,LAC
+St. Vincent & Grens.,VCT,1964.0,,,,LAC
+St. Vincent & Grens.,VCT,1965.0,,,,LAC
+St. Vincent & Grens.,VCT,1966.0,,,,LAC
+St. Vincent & Grens.,VCT,1967.0,,,,LAC
+St. Vincent & Grens.,VCT,1968.0,,,,LAC
+St. Vincent & Grens.,VCT,1969.0,,,,LAC
+St. Vincent & Grens.,VCT,1970.0,,,,LAC
+St. Vincent & Grens.,VCT,1971.0,,,,LAC
+St. Vincent & Grens.,VCT,1972.0,,,,LAC
+St. Vincent & Grens.,VCT,1973.0,,,,LAC
+St. Vincent & Grens.,VCT,1974.0,,,,LAC
+St. Vincent & Grens.,VCT,1975.0,,,,LAC
+St. Vincent & Grens.,VCT,1976.0,,,,LAC
+St. Vincent & Grens.,VCT,1977.0,,,,LAC
+St. Vincent & Grens.,VCT,1978.0,,,,LAC
+St. Vincent & Grens.,VCT,1979.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1980.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1981.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1982.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1983.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1984.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1985.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1986.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1987.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1988.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1989.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1990.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1991.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1992.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1993.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1994.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1995.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1996.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1997.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1998.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,1999.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2000.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2001.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2002.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2003.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2004.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2005.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2006.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2007.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2008.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2009.0,0.0,1.0,0.0,LAC
+St. Vincent & Grens.,VCT,2010.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1960.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1961.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1962.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1963.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1964.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1965.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1966.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1967.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1968.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1969.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1970.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1971.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1972.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1973.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1974.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1975.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1976.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1977.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1978.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1979.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1980.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1981.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1982.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1983.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1984.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1985.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1986.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1987.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1988.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1989.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1990.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1991.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1992.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1993.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1994.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1995.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1996.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1997.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1998.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,1999.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2000.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2001.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2002.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2003.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2004.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2005.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2006.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2007.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2008.0,0.0,1.0,0.0,LAC
+"Venezuela, Rep. Bol.",VEN,2009.0,0.0,0.0,1.0,LAC
+"Venezuela, Rep. Bol.",VEN,2010.0,0.0,0.0,0.0,LAC

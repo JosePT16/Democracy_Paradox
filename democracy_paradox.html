@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <style>
+    body {
+      background: #efefef;
+      margin: 20px;
+      font-family: "Times New Roman";
+    }
+
+    header h1 {
+      font-family: "Times New Roman";
+      font-size: 90px;
+      font-weight: bold;
+      color: #A53F2B;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 1px;
+    }
+    
+
+    header .subtitle {
+      font-family: "Times New Roman";
+      font-size: 40px;
+      color: #000000;
+      text-align: center;
+      margin-top: 1px;
+    }
+
+
+  .source {
+      font-family: "Times New Roman";
+      font-size: 20px;
+      color: #47434380;
+      text-align: left;
+      margin-top: 1px;
+      
+    }
+
+  .graphic_title {
+      font-family: "Times New Roman";
+      font-size: 30px;
+      color: #000000;
+      text-align: center;
+      margin-top: 1px;
+      font-weight: bold;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 40px;
+      width: 100%;
+      margin-top: 40px;
+    }
+
+    .text-box {
+      font-size: 35px;
+      line-height: 1.4;
+      background: #efefef;
+      padding: 20px;
+      text-align: justify;
+    text-justify: inter-word; 
+ 
+    }
+
+    .viz-box {
+      background: #efefef;
+      padding: 10px;
+      text-align: center;
+    }
+
+    svg {
+      display: block;
+      margin: 10px auto;
+      position: static !important;
+    }
+
+    .tooltip {
+      position: absolute;
+      background: white;
+      padding: 6px 10px;
+      border: 1px solid #aaa;
+      border-radius: 4px;
+      font-size: 12px;
+      pointer-events: none;
+      opacity: 0;
+    }
+  /* IA: How to change the color of the slider in D3*/
+  #yearSlider {
+    -webkit-appearance: none;
+    width: 300px;
+    height: 6px;
+    background: #A53F2B;   
+    margin: 10px 0;
+  }
+
+  #yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    background: #720404;   
+    cursor: pointer;
+  }
+
+   #scatterYearSlider {
+    -webkit-appearance: none;
+    width: 300px;
+    height: 6px;
+    background: #A53F2B;   
+    margin: 10px 0;
+  }
+
+
+  #scatterYearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    background: #720404;   
+    cursor: pointer;
+  }
+  </style>
+
+  <!-- including d3 graphics -->
+  <script src="https://d3js.org/d3.v4.js"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+   <!--
+  <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+   -->
+</head>
+
+<body>
+
+<header>
+    <h1>Democracy Paradox</h1>
+    <h2 class="subtitle">If it causes growth, why is it moving backward?</h2>
+</header>
+
+<div class="grid-container">
+  <div class="text-box">
+      <p>At first glance, the relationship between democracy and 
+        economic development does not appear entirely clear.
+        While most Western developed countries, such as the
+        United States, Germany, and Sweden, combine high levels
+        of democracy with strong economic performance, there are
+        also wealthy non-democratic states like Saudi Arabia, Qatar,
+        and Singapore that challenge this pattern. As shown in
+        Figure 1, although there is some correlation between a
+        country’s Gross Domestic Product (GDP) and its level of
+        democracy*, this relationship is not conclusive.
+      </p>
+  </div>
+
+   <div class="viz-box">
+      <div class="graphic_title">
+        Figure 1: Relationship Democracy - GDP per capita (2024)
+      </div>
+      <img src="svg/Vis1.SVG" alt="Visualization 1" style="max-width:100%; height:auto;" width="750" />
+
+   </div>
+
+</div>
+
+
+
+<div class="grid-container">
+  <div class="vix-box">
+    <div class="graphic_title">
+      Figure 2: GDP growth before and after Democratization
+    </div>
+    <img src="svg/Vis3.SVG" alt="Visualization 1" style="max-width:100%; height:auto;" width="900" />
+  </div>
+  <div class="text-box">
+    <p>
+      This pattern can be explained by several factors. Economic
+      growth depends on multiple variables (human capital,
+      technological progress, and natural resource endowments)
+      making it difficult to isolate the specific influence of political
+      institutions. Moreover, some countries may experience
+      growth even under extractive systems where power and
+      resources are concentrated in the hands of a few.
+      However, the relationship between democracy and
+      economic growth becomes evident when focusing on
+      countries that have passed democratic transitions. Figure 2
+      shows the average economic growth before and after a
+      transition to democracy (over a 20-year span). As the figure
+      suggests, democratization acts as a game-changing factor
+      for countries following this path, boosting their economies in
+      a consistent and sustained way.
+    </p>
+  </div>
+
+</div>
+
+<div class="grid-container">
+  <div class="text-box">
+  Moreover, a study of Acemoglu, Naidu, Restrepo and
+  Robinson (2019) found that democratizations increase
+  GDP per capita by about 20 percent in the long run. This
+  may help explain why democracy has increasingly been
+  adopted worldwide over the past two centuries.
+  Nevertheless, a considerable portion of the world’s
+  population still lives under non-democratic regimes, as
+  illustrated in Figure 3. Furthermore, democratic
+  backsliding has become increasingly visible in recent
+  years (See Figure 4).
+  </div>
+
+  <div class="vix-box">
+    <div class="graphic_title">
+      Figure 3: Level of democracy in the world (2024)
+    </div>
+    <img src="svg/Vis4.SVG" alt="Visualization 1" style="max-width:100%; height:auto;" width="1700" />
+  </div>
+</div>
+
+<p style="font-weight:700 ; font-size:45px;">So why is it going backwards?</p>
+
+
+<div class="grid-container">
+  <div class="text-box">
+    <p>
+       
+      Democratic consolidation processes are not linear.
+      Following Acemoglu and Robinson (2012), the growth
+      generated by democracy can alter the balance of power
+      creating new economic and political elites that challenge
+      existing ones. When institutions remain weak, these elites
+      (old or newly emerging) have incentives to capture the
+      state, restrict political competition, and manipulate
+      institutions to preserve their privileges. Under such
+      conditions, the growth that democracy fosters can
+      paradoxically lead to a process of democratic backsliding.
+    </p>
+
+    <p>
+        
+        Particularly whether democracy consolidates or backslides depends primarily 
+        on two forces: inequality and the cost of repression. When inequality is high and repression is cheap, 
+        elites prefer autocracy because they fear redistribution and can suppress opposition. When inequality 
+        is low and repression is costly, democracy is more likely to consolidate because elites face little
+        threat from revolution and cannot easily repress. Countries with both high inequality and high 
+        repression costs tend to be unstable, oscillating during the years between autocracy and democracy 
+        (See dynamic figure 5).
+    </p>
+    <p>
+      This dynamics are also reinforced by geographical waves that promote regional democratizations or
+      autocratizations. Specifically, when elites see democratization in their neighbors, they perceive
+      a higher risk of revolution and are more likely to make democratic concessions. The same but opposite
+      mechanism applies when autocratizations happen in the neighbor.
+    </p>
+
+    <p>
+      After crises such as the COVID-19 pandemic, democracy
+      has faced renewed pressures and attacks. As Figure 6
+      illustrates, countries with stronger democratic institutions
+      are generally better equipped to resist these challenges
+      and experienced smaller declines in democratic quality.
+    <p>
+      Democratic backsliding is not an anomaly in history.
+      Rather, it reflects a common pattern in which authoritarian
+      and democratic waves alternate over time, often
+      reinforced by regional dynamics. Periods of
+      autocratization have been recurrent throughout history,
+      yet so too have waves of democratization (as Figure 7 shows), emerging when
+      social, economic, and technological conditions align to
+      favor greater inclusion and participation.
+    </p>
+
+  </div>
+
+  <div class="vix-box" style="text-align:center;">
+      <div class="vix-box">
+        <div class="graphic_title">
+          Figure 4: Average Democracy Score in the World (2015-2024)
+        </div>
+         <img src="svg/Vis5.SVG" alt="Visualization 1" style="max-width:100%; height:auto;" width="800" />
+       </div>
+   
+      <br>
+      <br>
+      <div class="vix-box">  
+        <div class="graphic_title">
+          Figure 5: Repression cost and inequality by type of regime
+        </div>
+        <svg id="scatterplot" width="900" height="600"></svg>
+          
+        <div class="source">
+          Source: V-Dem Institute and Standardized World Income Inequality Database
+          <br>
+          Note: The cost of repressions is approximated by the variable repression of
+          civil society organization of V-Dem
+        </div>
+        
+
+      <br>
+      <br>
+
+        <div id="scatter-controls" style="text-align:center; margin-top:15px;">
+          <span id="scatterYearLabel">1990</span>
+          <input type="range" id="scatterYearSlider" min="1980" max="2020" step="1" value="1990">
+        </div>
+        
+        <select id="countryFilter" style="display:block; margin:0 auto;">
+          <option value="all">All countries</option>
+        </select>
+      </div>  
+
+      <br>
+
+    <div class="vix-box">
+      <div class="graphic_title">
+        Figure 6: Loss of Democracy in the last 10 year by Democracy Status (%)
+      </div>
+      <img src="svg/Vis6.SVG" alt="Visualization 1" style="max-width:100%; height:auto;" width="800" />
+
+    </div>
+  </div>
+  
+
+</div>
+
+
+
+<div class="graphic_title">
+  Figure 7: Democratization waves in Latin America y Africa
+</div>
+
+<div class="grid-container">
+
+  <div class="viz-box">
+    <div id="map_container">
+      
+        <h2 id="map_title" style="text-align:center; margin-bottom:10px;">
+          Democracy in Latin America - 1960
+        </h2>
+          <svg id="map_lat" width="800" height="600"></svg>   
+      </div>
+
+      <div id="map_controls"> </div>
+  </div>
+
+  <div class="viz-box">
+    <div id="map_container_afr">
+      <h2 id="map_title_afr" style="text-align:center; margin-bottom:10px;">
+        Democracy in Africa - 1978
+      </h2>
+    
+      <svg id="map_afr" width="800" height="600"></svg>   
+
+
+      <div id="map_controls_afr"> </div>
+
+    </div>
+  </div>
+
+  <div class="viz-box" style="grid-column: 1 / -1; text-align:center; margin-top:10px;">
+    <span style="display:inline-flex; align-items:center; margin:0 12px;">
+      <span style="display:inline-block; width:14px; height:14px; background:#04724D; margin-right:6px;"></span>
+      Democracy
+    </span>
+    <span style="display:inline-flex; align-items:center; margin:0 12px;">
+      <span style="display:inline-block; width:14px; height:14px; background:#A53F2B; margin-right:6px;"></span>
+      No Democracy
+    </span>
+  </div>
+</div>
+
+
+  <div class="source">
+          Source: Acemoglu, D., Naidu, S., Restrepo, P., & Robinson, J. A. (2019)
+  </div>
+
+<p style="font-weight:700 ; font-size:45px;">Conclusion and reflection</p>
+<div class="text-box">
+While democracy continues to face significant
+challenges, empirical evidence consistently indicates
+that it offers the most ideal framework for sustainable,
+and resilient development. Periods of democratic
+backsliding should not be interpreted as systemic
+failure, but rather as critical junctures that test the
+robustness of democratic institutions. Democracies
+has their own mechanisms of accountability,
+participation, and institutional renewal that reienforce
+its capacity for self-correction and reform.
+In an increasingly interconnected world, where
+democratic experiences circulate beyond national
+boundaries, new waves of political openness may
+emerge, fostered by more informed and demanding
+societies. Historical experience suggests that episodes
+of regression are often temporary, whereas the
+aspiration for freedom, equality, and representation
+persists as a central driver of human progress.
+</div>
+
+
+<!-- Your map animation scripts -->
+<script src="lat_func.js"></script>
+<script src="animation_lat.js"></script>
+<script src="afr_func.js"> </script>
+<script src="animation_afr.js"></script>
+<script src="eca_func.js"></script>
+<script src="animation_eca.js"></script>
+
+<script src="scatter.js"></script>
+
+<script>console.log("test");</script>
+
+
+</body>
+</html>
